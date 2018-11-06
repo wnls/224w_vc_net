@@ -1,512 +1,512 @@
-IDG Capital
-Sequoia Capital China
-Qiming Venture Partners
-Tencent Holdings
-Matrix Partners China
-ZhenFund
-HAX
-Shenzhen Capital Group
-Sinovation Ventures
-Legend Capital
-Shunwei Capital
-Morningside Group
-Microsoft Accelerator Beijing
-Alibaba Group
-Chinaccelerator
-Northern Light Venture Capital
-Cherubic Ventures
-SIG China
-Empower Investment
-Gobi Partners
-Hillhouse Capital Group
-Source Code Capital
-Baidu
-China Growth Capital
-K2VC
-Morningside Venture Capital
-Vertex Ventures China
-Yunqi Partners
-N5Capital
-Bertelsmann Asia Investment Fund
-Gaorong Capital
-CBC Capital
-Lightspeed China Partners
-JD.com
-SB China Venture Capital
-Legend Star
-Node Capital
-Fosun Group
-PreAngel
-Xiaomi
-Lilly Asia Ventures
-Tiantu Capital
-Chengwei Capital
-Ant Financial
-FREES FUND
-DT Capital Partners
-Zhonglu Capital
-Green Pine Capital
-Decent Capital
-Trustbridge Partners
-Fortune Venture Capital
-BlockVC
-Ventech China
-TAL Education Group
-Tencent Industry Win-Win Fund
-CICC
-Renren Inc.
-Zero2IPO Ventures
-Capital Today
-Vision Plus Capital
-Yonghua Capital
-China Media Capital (CMC)
-Eastern Bell Venture Capital
-MSA Capital
-Oriza Holdings
-Fenbushi Capital
-Plum Ventures
-Alibaba Capital Partners
-Ping An Ventures
-China Equity
-Oriental Fortune Capital
-CID Group
-ClearVue Partners
-NewMargin Ventures
-DFJ DragonFund
-Bitmain
-Plug and Play China
-Meituan-Dianping
-China Merchants Capital
-Hony Capital
-01vc
-Tsing Capital
-iD TechVentures
-Aplus Capital
-Sky9 Capital
-Didi Chuxing
-Consensus Lab
-CHAIN CAPITAL
-Keytone Ventures
-Addor Capital
-WuXi AppTec
-Qihoo 360 Technology
-Decheng Capital
-China Merchants Bank
-Cowin Capital
-SkyChee Ventures
-Bojiang Capital(BoomingStar Ventures for the US fund)
-Puhua Capital
-QF Capital
-Haiyin Capital
-Qingsong Fund
-GX Capital
-Ping An
-Boyu Capital
-CITIC PE
-Highlight Capital
-Blue Lake Capital AG
-Sina
-CASH Capital
-THG Ventures
-Innotech Capitals
-Marathon Venture Partners
-Kunlun
-Ctrip
-Primavera Capital Group
-GP Capital
-Kaitai Capital
-Lenovo Capital and Incubator Group (LCIG)
-IPV Capital
-Milestone Capital China
-Microsoft Accelerator Shanghai
-JD Finance
-JRR Crypto
-Cybernaut Venture Capital
-Mustang Ventures
-Cheetah Mobile
-Weibo
-HOPU Investment Management Company
-Wu Capital
-Baring Private Equity Asia
-Sumitomo Mitsui Banking Corporation
-Ivy Capital
-China Minsheng Investment Group
-Gopher Asset Management
-Hongdao Capital
-Shenzhen Cowin Venture Capital Investments
-GF Securities
-HNA Group
-CreditEase
-3E Bioventures
-New Oriental Education & Technology
-Vision Knight Capital
-Haier Capital
-AngelVest
-TF Capital
-ShenZhen GTJA Investment Group
-Haitong International Securities Group
-ZSVC
-PreIPO
-National SME Development Fund
-Share Capital
-36Kr
-Shanghai Fosun Pharmaceutical (Group) Co.,Ltd
-JD Capital
-China Renaissance
-Cenova Ventures
-TCL Capital
-LH Capital Mangement (Shanghai)
-BioVeda China Fund
-Xianghe Capital
-Oriza Seed Capital
-Qianhai Wutong Mergers and Acquisitions Funds
-Sunac China Holdings
-Legend Holdings
-FIH Mobile
-WANDA Group
-CITIC Securities
-Tiger Fund
-TusPark Ventures
-23Seed
-Shenzhen Fortune Venture Capital
-Taishan Invest AG
-9F Group
-iDreamsky Technology
-NIO Capital
-NetEase Capital
-Iflytek (Keda Xunfei)
-GF Xinde Investment Management
-PurpleSky Capital
-Tsing Ventures
-Innohub Capital
-Capital Nuts Investment Management Ltd
-Ferry Venture Capital
-Origo Sino-India
-United Capital Investment Group Limited
-Greenwoods Investment
-Yuansheng BioVenture
-China Investment Corporation
-NetEase
-Bank of China
-10Fund
-Huagai Capital
-China Minsheng Bank
-Funcity Capital
-Shenzhen Leaguer Venture Capital
-Delta Capital
-Newgen Venture Partners
-State Development & Investment Corporation (SDIC)
-Hermed Capital
-PGA Venture Partners
-Vangoo Investment Partners
-Cainiao Logistics
-Huobi
-Ucommune
-Focus Media
-Huayi Brothers Media Group
-S.F. Express
-Jun Lei
-China CITIC Bank
-Bo Shen
-FutureCap
-LYZZ Capital
-China Life Insurance
-Wang Gang
-Junsan Capital
-Zhizhuo Capital
-Yinxinggu Capital
-The9
-GEOC
-Zhongguancun Development Group
-Frontline BioVentures
-Haitong Kaiyuan Investment
-VenturesLab
-Venture TDF
-Shengjing Group
-Jingwei Investments
-Danen Ventures
-SenseTime
-58.com
-Sogou
-iCarbonX
-Koubei.com
-Suning Holdings Group
-51 Credit Card Manager
-LeEco
-Vipshop
-UTStarcom
-Zhejiang Geely Holding Group
-William Bao Bean
-Alpha startups
-Pagoda Investment
-China Venture Capital
-Summitview Capital
-China Oceanwide
-Lunar Capital
-Perfect World
-Kuang-Chi Science
-Hangzhou Liaison Interactive Information Technology
-China Vanke
-Bob Xu
-Mangrove Capital
-New Alliance Capital
-Quan Capital
-Sigma Square Capital
-China Merchants Securities
-Yongjin Group
-Haisco
-Hao Capital
-Chuxin Capital
-Li Qing Zeng
-Tianjin Venture Capital
-Dasbank
-Zhixin Capital
-Toutiao
-Ximalaya FM
-Meitu
-Funplus
-Shanghai Media Group
-UCAR
-Wacai
-Blue Focus PR Consulting
-Bitauto Holdings
-NetPosa Technologies
-Sunshine Insurance Group Co Ltd
-Hakim Unique Internet
-BOE Technology Group
-LYFE Capital
-Xiaolai Li
-Huazhu Hotels Group
-China Bridge Capital
-HuangPu River Capital
-GoerTek Inc.
-Huatai Securities Co., Ltd.
-Shanghai Venture Capital Co.,Ltd
-Huaxing New Economic Fund
-Zeus Entertainment
-China Pacific Insurance
-New China Capital Management
-Tao Zhang
-ShangPharma
-Tsinghua Holdings
-Tasly Pharmaceutical
-Kaiwu Capital
-Victor Wang
-Hanfor Holdings
-Share Capital Partners
-LeBox Capital
-Richard Chen
-Morning Crest Capital
-Cloud Angel Fund
-Shanghai Creation Investment
-C-Bridge Capital
-Infotech Ventures
-China Soft Capital
-Qifu Capital Management
-Pan-Lin Asset Management
-Shanghai Alliance
-Leaguer Tsing-Yuan Venture Capital
-Cathaya Capital
-Zero2IPO Capital
-iQiyi
-DJI
-Qunar.com
-WM Motor
-Youku
-Lakala
-TalkingData
-Bona Film Group
-Jumei
-Thundersoft
-Ourpalm
-Phoenix New Media
-Hua Partners
-ZTE
-Sumavision
-SAIC Motor
-Greenland Hong Kong Holdings Limited
-BAIC Group
-Baidu Video
-Digital Finance Group
-Bobby Lee
-Midea Group
-GSR Capital
-He Xiaopeng
-Shenzhen O-film Technology
-Noah Holdings
-Weixing Chen
-CHINA.COM
-Renren Lianhe Holdings
-TCL Communication Technology Holdings Limited
-China Science & Merchants Investment Management Group
-Suning.com
-Bo Feng
-Loyal Valley Capital
-Tsinghua Venture Capital
-Ping An Bank
-Aureos Capital
-Silverlink Capital
-China Cinda Asset Management
-Bank of Beijing
-MNC Media Investment
-Jinjiang International
-Beijing Cultural Center Fund
-Chenchao Zhuang
-Dayang Group
-HNA Tourism Group
-Zhong Capital Fund
-Zhisland Capital
-Trinitas Capital
-TDF Capital
-China Materialia
-China Gaoxin Investment Group Corp.
-Taishan XD (TXD) Ventures
-BEIID
-Jolmo Capital Management
-Xinhu Zhongbao Co Ltd
-Acer Capital
-Yuan Zhen Capital
-Qiaojing Capital
-Hepalink
-Innovation Camp
-InnoValley China
-Hua-Yuan Group
-Infotech Pacific Ventures
-Mingly China Growth Fund
-Dragonvest Partners
-GP Healthcare Capital
-Huang Mingming
-Shenzhen Qianhe Capital Management
-Maintrend Capital
-ZTEVC
-Songbo Li
-GuoHe Capital
-Zhejiang VIE Science and Technology Company
-SIIC Investment
-General Technology Venture Capital
-Right & Sun Investment Holding Co.
-91Capital
-ByteDance
-Bilibili
-Tencent Music
-Megvii Technology
-Huawei
-Yitu Technology
-Wecash
-Yeahmobi
-Coocaa
-Neusoft Group
-MiningLamp
-Beijing Weiying Technology
-imToken
-Hundsun Technologies
-Jiguang
-Xunlei
-58 Daojia
-Gaosi Education Group
-Le Sports
-Dotc United Group
-Omni Prime Inc.
-Tsinghua Unigroup International
-CAR Inc.
-8btc.com
-Linekong
-Jack Ma
-Forgame
-Bank of Communications
-Zero2IPO
-FINUP
-Angel Club
-KongZhong
-Elex Technology
-Hangzhou Tigermed Consulting Co
-UnionPay International
-NEO
-Autohome
-Fenqile
-Contemporary Amperex Technology
-NavInfo
-Jade Capital
-Bits x Bites
-Silk Road Fund
-China Electronics Corporation (CEC)
-Shou Zi Chew
-GL Capital
-Hanhai Investment Inc.
-Chinese Academy Of Sciences
-AdMaster
-Insight Capital
-Evergrande Health Industry Group
-SMIC
-Ping An Capital
-Sunny Optical Technology
-Youzu Interactive
-Fortune Fountain Capital
-Enlight Media
-Credit China FinTech Holdings
-Guotai Junan Securities
-Amalfi Capital
-Huace Film & TV
-Luye Pharma
-Tsinghua Tongfang
-Taiyou Fund
-China Environmental Fund
-Bixin
-Fang Group
-Weilai Capital
-Livzon Pharmaceutical Group
-Betta Pharmaceuticals
-Dragonrise Capital
-Fang Fund Partners
-Jade Invest
-LongTec China Ventures
-Beijing Zhongguancun Overseas Science Park Co.Ltd
-Sinopharm Group
-Bohai Leasing
-Leoch Battery
-Zhongzhi Enterprise Group
-Broadhi Capital
-DiNovA Capital
-Hongyi Zhou
-China Ministry of Finance
-CSV Capital Partners
-SDIC Capital
-Bank of Nanjing
-Suzhou Dongshan Precision Manufacturing
-Manzi Xue
-Chengdu Technology Transfer Group
-RiverHill Fund
-Wang Sicong
-Real Power Capital
-Sunyard
-Prime Value Capital Management
-Hanwang Technology
-CMHJ Partners
-Fortune Link
-Heaven-Sent Capital Management
-Deppon Logistics
-HNA Capital
-The Chinese Founders Fund
-Huiying Financial Service
-Shanghai Liuhe Capital
-China-Israel Value Capital
-Bean Capital
-Salubris Pharmaceutical
-GoHigh Fund
-Co-Power Venture Capital
-Govtor Capital
-Pangu Venture Capital
-Dunan Holding Group
-RITEK Corporation
-Zhongding Power
-Everbright ReinFore
-CITIC M&A Fund
-Aikang Group
-Chayuan Venture Capital
-Huaxin Century Investment Group
-Sichuan Culture Industry Fund
-Touch Wood
-Changyou Fund
-Xiangyang Yang
-Huayu Investment
-Gaojie Capital
+IDG Capital 535
+Sequoia Capital China 338
+Qiming Venture Partners 333
+Tencent Holdings 327
+Matrix Partners China 296
+ZhenFund 259
+HAX 254
+Shenzhen Capital Group 203
+Sinovation Ventures 175
+Legend Capital 165
+Shunwei Capital 154
+Morningside Group 153
+Microsoft Accelerator Beijing 152
+Alibaba Group 144
+Chinaccelerator 134
+Northern Light Venture Capital 132
+Cherubic Ventures 128
+SIG China 117
+Empower Investment 116
+Gobi Partners 106
+Hillhouse Capital Group 105
+Source Code Capital 98
+Baidu 87
+China Growth Capital 83
+K2VC 79
+Morningside Venture Capital 72
+Vertex Ventures China 71
+Yunqi Partners 71
+N5Capital 69
+Bertelsmann Asia Investment Fund 66
+Gaorong Capital 124
+CBC Capital 60
+Lightspeed China Partners 57
+JD.com 56
+SB China Venture Capital 56
+Legend Star 54
+Node Capital 50
+Fosun Group 49
+PreAngel 49
+Xiaomi 45
+Lilly Asia Ventures 47
+Tiantu Capital 44
+Chengwei Capital 43
+Ant Financial 41
+FREES FUND 41
+DT Capital Partners 40
+Zhonglu Capital 40
+Green Pine Capital 36
+Decent Capital 37
+Trustbridge Partners 36
+Fortune Venture Capital 36
+BlockVC 35
+Ventech China 35
+TAL Education Group 34
+Tencent Industry Win-Win Fund 34
+CICC 33
+Renren Inc. 33
+Zero2IPO Ventures 32
+Capital Today 32
+Vision Plus Capital 31
+Yonghua Capital 31
+China Media Capital (CMC) 30
+Eastern Bell Venture Capital 30
+MSA Capital 30
+Oriza Holdings 29
+Fenbushi Capital 28
+Plum Ventures 28
+Alibaba Capital Partners 28
+Ping An Ventures 27
+China Equity 27
+Oriental Fortune Capital 26
+CID Group 26
+ClearVue Partners 24
+NewMargin Ventures 24
+DFJ DragonFund 23
+Bitmain 22
+Plug and Play China 22
+Meituan-Dianping 21
+China Merchants Capital 21
+Hony Capital 21
+01vc 21
+Tsing Capital 21
+iD TechVentures 21
+Aplus Capital 20
+Sky9 Capital 20
+Didi Chuxing 20
+Consensus Lab 19
+CHAIN CAPITAL 19
+Keytone Ventures 19
+Addor Capital 19
+WuXi AppTec 18
+Qihoo 360 Technology 18
+Decheng Capital 18
+China Merchants Bank 18
+Cowin Capital 18
+SkyChee Ventures 18
+Bojiang Capital(BoomingStar Ventures for the US fund) 17
+Puhua Capital 17
+QF Capital 17
+Haiyin Capital 17
+Qingsong Fund 17
+GX Capital 17
+Ping An 16
+Boyu Capital 16
+CITIC PE 16
+Highlight Capital 16
+Blue Lake Capital AG 16
+Sina 15
+CASH Capital 15
+THG Ventures 15
+Innotech Capitals 15
+Marathon Venture Partners 15
+Kunlun 14
+Ctrip 14
+Primavera Capital Group 14
+GP Capital 14
+Kaitai Capital 14
+Lenovo Capital and Incubator Group (LCIG) 14
+IPV Capital 14
+Milestone Capital China 14
+Microsoft Accelerator Shanghai 14
+JD Finance 13
+JRR Crypto 13
+Cybernaut Venture Capital 13
+Mustang Ventures 13
+Cheetah Mobile 12
+Weibo 12
+HOPU Investment Management Company 12
+Wu Capital 12
+Baring Private Equity Asia 12
+Sumitomo Mitsui Banking Corporation 12
+Ivy Capital 12
+China Minsheng Investment Group 12
+Gopher Asset Management 12
+Hongdao Capital 12
+Shenzhen Cowin Venture Capital Investments 12
+GF Securities 12
+HNA Group 11
+CreditEase 11
+3E Bioventures 11
+New Oriental Education & Technology 11
+Vision Knight Capital 11
+Haier Capital 11
+AngelVest 11
+TF Capital 11
+ShenZhen GTJA Investment Group 11
+Haitong International Securities Group 11
+ZSVC 11
+PreIPO 11
+National SME Development Fund 11
+Share Capital 11
+36Kr 10
+Shanghai Fosun Pharmaceutical (Group) Co.,Ltd 10
+JD Capital 10
+China Renaissance 10
+Cenova Ventures 10
+TCL Capital 10
+LH Capital Mangement (Shanghai) 10
+BioVeda China Fund 10
+Xianghe Capital 10
+Oriza Seed Capital 10
+Qianhai Wutong Mergers and Acquisitions Funds 10
+Sunac China Holdings 9
+Legend Holdings 9
+FIH Mobile 9
+WANDA Group 9
+CITIC Securities 9
+Tiger Fund 9
+TusPark Ventures 9
+23Seed 9
+Shenzhen Fortune Venture Capital 9
+Taishan Invest AG 9
+9F Group 8
+iDreamsky Technology 8
+NIO Capital 8
+NetEase Capital 8
+Iflytek (Keda Xunfei) 8
+GF Xinde Investment Management 8
+PurpleSky Capital 8
+Tsing Ventures 8
+Innohub Capital 8
+Capital Nuts Investment Management Ltd 8
+Ferry Venture Capital 8
+Origo Sino-India 8
+United Capital Investment Group Limited 8
+Greenwoods Investment 8
+Yuansheng BioVenture 8
+China Investment Corporation 7
+NetEase 7
+Bank of China 7
+10Fund 7
+Huagai Capital 7
+China Minsheng Bank 7
+Funcity Capital 7
+Shenzhen Leaguer Venture Capital 7
+Delta Capital 7
+Newgen Venture Partners 7
+State Development & Investment Corporation (SDIC) 7
+Hermed Capital 7
+PGA Venture Partners 7
+Vangoo Investment Partners 7
+Cainiao Logistics 6
+Huobi 6
+Ucommune 6
+Focus Media 6
+Huayi Brothers Media Group 6
+S.F. Express 6
+Jun Lei 6
+China CITIC Bank 6
+Bo Shen 6
+FutureCap 6
+LYZZ Capital 6
+China Life Insurance 6
+Wang Gang 6
+Junsan Capital 6
+Zhizhuo Capital 6
+Yinxinggu Capital 6
+The9 6
+GEOC 6
+Zhongguancun Development Group 6
+Frontline BioVentures 6
+Haitong Kaiyuan Investment 6
+VenturesLab 6
+Venture TDF 6
+Shengjing Group 6
+Jingwei Investments 6
+Danen Ventures 6
+SenseTime 5
+58.com 5
+Sogou 5
+iCarbonX 5
+Koubei.com 5
+Suning Holdings Group 5
+51 Credit Card Manager 5
+LeEco 5
+Vipshop 5
+UTStarcom 5
+Zhejiang Geely Holding Group 5
+William Bao Bean 5
+Alpha startups 5
+Pagoda Investment 5
+China Venture Capital 5
+Summitview Capital 5
+China Oceanwide 5
+Lunar Capital 5
+Perfect World 5
+Kuang-Chi Science 5
+Hangzhou Liaison Interactive Information Technology 5
+China Vanke 5
+Bob Xu 5
+Mangrove Capital 5
+New Alliance Capital 5
+Quan Capital 5
+Sigma Square Capital 5
+China Merchants Securities 5
+Yongjin Group 5
+Haisco 5
+Hao Capital 5
+Chuxin Capital 5
+Li Qing Zeng 5
+Tianjin Venture Capital 5
+Dasbank 5
+Zhixin Capital 5
+Toutiao 4
+Ximalaya FM 4
+Meitu 4
+Funplus 4
+Shanghai Media Group 4
+UCAR 4
+Wacai 4
+Blue Focus PR Consulting 4
+Bitauto Holdings 4
+NetPosa Technologies 4
+Sunshine Insurance Group Co Ltd 4
+Hakim Unique Internet 4
+BOE Technology Group 4
+LYFE Capital 4
+Xiaolai Li 4
+Huazhu Hotels Group 4
+China Bridge Capital 4
+HuangPu River Capital 4
+GoerTek Inc. 4
+Huatai Securities Co., Ltd. 4
+Shanghai Venture Capital Co.,Ltd 4
+Huaxing New Economic Fund 4
+Zeus Entertainment 4
+China Pacific Insurance 4
+New China Capital Management 4
+Tao Zhang 4
+ShangPharma 4
+Tsinghua Holdings 4
+Tasly Pharmaceutical 4
+Kaiwu Capital 4
+Victor Wang 4
+Hanfor Holdings 4
+Share Capital Partners 4
+LeBox Capital 4
+Richard Chen 4
+Morning Crest Capital 4
+Cloud Angel Fund 4
+Shanghai Creation Investment 4
+C-Bridge Capital 4
+Infotech Ventures 4
+China Soft Capital 4
+Qifu Capital Management 4
+Pan-Lin Asset Management 4
+Shanghai Alliance 4
+Leaguer Tsing-Yuan Venture Capital 4
+Cathaya Capital 4
+Zero2IPO Capital 4
+iQiyi 3
+DJI 3
+Qunar.com 3
+WM Motor 3
+Youku 3
+Lakala 3
+TalkingData 3
+Bona Film Group 3
+Jumei 3
+Thundersoft 3
+Ourpalm 3
+Phoenix New Media 3
+Hua Partners 3
+ZTE 3
+Sumavision 3
+SAIC Motor 3
+Greenland Hong Kong Holdings Limited 3
+BAIC Group 4
+Baidu Video 3
+Digital Finance Group 3
+Bobby Lee 3
+Midea Group 3
+GSR Capital 3
+He Xiaopeng 2
+Shenzhen O-film Technology 3
+Noah Holdings 3
+Weixing Chen 3
+CHINA.COM 3
+Renren Lianhe Holdings 3
+TCL Communication Technology Holdings Limited 3
+China Science & Merchants Investment Management Group 3
+Suning.com 3
+Bo Feng 3
+Loyal Valley Capital 3
+Tsinghua Venture Capital 3
+Ping An Bank 3
+Aureos Capital 3
+Silverlink Capital 3
+China Cinda Asset Management 3
+Bank of Beijing 3
+MNC Media Investment 3
+Jinjiang International 3
+Beijing Cultural Center Fund 3
+Chenchao Zhuang 3
+Dayang Group 3
+HNA Tourism Group 3
+Zhong Capital Fund 3
+Zhisland Capital 3
+Trinitas Capital 3
+TDF Capital 3
+China Materialia 3
+China Gaoxin Investment Group Corp. 3
+Taishan XD (TXD) Ventures 3
+BEIID 3
+Jolmo Capital Management 3
+Xinhu Zhongbao Co Ltd 3
+Acer Capital 3
+Yuan Zhen Capital 3
+Qiaojing Capital 3
+Hepalink 3
+Innovation Camp 3
+InnoValley China 3
+Hua-Yuan Group 3
+Infotech Pacific Ventures 3
+Mingly China Growth Fund 3
+Dragonvest Partners 3
+GP Healthcare Capital 3
+Huang Mingming 3
+Shenzhen Qianhe Capital Management 3
+Maintrend Capital 3
+ZTEVC 3
+Songbo Li 3
+GuoHe Capital 3
+Zhejiang VIE Science and Technology Company 3
+SIIC Investment 3
+General Technology Venture Capital 3
+Right & Sun Investment Holding Co. 3
+91Capital 3
+ByteDance 2
+Bilibili 2
+Tencent Music 2
+Megvii Technology 2
+Huawei 2
+Yitu Technology 2
+Wecash 2
+Yeahmobi 2
+Coocaa 2
+Neusoft Group 2
+MiningLamp 2
+Beijing Weiying Technology 2
+imToken 2
+Hundsun Technologies 2
+Jiguang 2
+Xunlei 2
+58 Daojia 2
+Gaosi Education Group 2
+Le Sports 2
+Dotc United Group 2
+Omni Prime Inc. 2
+Tsinghua Unigroup International 2
+CAR Inc. 2
+8btc.com 2
+Linekong 2
+Jack Ma 2
+Forgame 2
+Bank of Communications 2
+Zero2IPO 2
+FINUP 2
+Angel Club 2
+KongZhong 2
+Elex Technology 2
+Hangzhou Tigermed Consulting Co 2
+UnionPay International 2
+NEO 2
+Autohome 2
+Fenqile 2
+Contemporary Amperex Technology 2
+NavInfo 2
+Jade Capital 2
+Bits x Bites 2
+Silk Road Fund 2
+China Electronics Corporation (CEC) 2
+Shou Zi Chew 2
+GL Capital 2
+Hanhai Investment Inc. 2
+Chinese Academy Of Sciences 2
+AdMaster 2
+Insight Capital 2
+Evergrande Health Industry Group 2
+SMIC 2
+Ping An Capital 2
+Sunny Optical Technology 2
+Youzu Interactive 2
+Fortune Fountain Capital 2
+Enlight Media 2
+Credit China FinTech Holdings 2
+Guotai Junan Securities 2
+Amalfi Capital 2
+Huace Film & TV 2
+Luye Pharma 2
+Tsinghua Tongfang 2
+Taiyou Fund 2
+China Environmental Fund 2
+Bixin 2
+Fang Group 2
+Weilai Capital 2
+Livzon Pharmaceutical Group 2
+Betta Pharmaceuticals 2
+Dragonrise Capital 2
+Fang Fund Partners 2
+Jade Invest 2
+LongTec China Ventures 2
+Beijing Zhongguancun Overseas Science Park Co.Ltd 2
+Sinopharm Group 2
+Bohai Leasing 2
+Leoch Battery 2
+Zhongzhi Enterprise Group 2
+Broadhi Capital 2
+DiNovA Capital 2
+Hongyi Zhou 2
+China Ministry of Finance 2
+CSV Capital Partners 2
+SDIC Capital 2
+Bank of Nanjing 2
+Suzhou Dongshan Precision Manufacturing 2
+Manzi Xue 2
+Chengdu Technology Transfer Group 2
+RiverHill Fund 2
+Wang Sicong 2
+Real Power Capital 2
+Sunyard 2
+Prime Value Capital Management 2
+Hanwang Technology 2
+CMHJ Partners 2
+Fortune Link 2
+Heaven-Sent Capital Management 2
+Deppon Logistics 2
+HNA Capital 2
+The Chinese Founders Fund 2
+Huiying Financial Service 2
+Shanghai Liuhe Capital 2
+China-Israel Value Capital 2
+Bean Capital 2
+Salubris Pharmaceutical 2
+GoHigh Fund 2
+Co-Power Venture Capital 2
+Govtor Capital 2
+Pangu Venture Capital 2
+Dunan Holding Group 2
+RITEK Corporation 2
+Zhongding Power 2
+Everbright ReinFore 2
+CITIC M&A Fund 2
+Aikang Group 2
+Chayuan Venture Capital 2
+Huaxin Century Investment Group 2
+Sichuan Culture Industry Fund 2
+Touch Wood 2
+Changyou Fund 2
+Xiangyang Yang 2
+Huayu Investment 2
+Gaojie Capital 2
