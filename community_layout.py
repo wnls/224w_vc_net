@@ -23,14 +23,14 @@ def community_layout(g, partition):
 
     """
 
-    pos_communities = _position_communities(g, partition, scale=3.)
+    pos_communities = _position_communities(g, partition, scale=4.)
 
-    pos_nodes = _position_nodes(g, partition, scale=1.)
+    pos_nodes = _position_nodes(g, partition, scale=5.)
 
     # combine positions
     pos = dict()
     for node in g.nodes():
-        pos[node] = pos_communities[node] + pos_nodes[node]
+        pos[node] = 4*pos_communities[node] + pos_nodes[node]
 
     return pos
 
@@ -48,6 +48,10 @@ def _position_communities(g, partition, **kwargs):
 
     # find layout for communities
     pos_communities = nx.spring_layout(hypergraph, **kwargs)
+    # pos_communities = nx.circular_layout(hypergraph, **kwargs)
+    # print(len(communities))
+    # nx.draw(hypergraph, pos_communities, node_size=100, node_color=list(set(partition.values())))
+    # plt.show()
 
     # set node positions to position of community
     pos = dict()
@@ -101,5 +105,6 @@ def test():
     partition = community_louvain.best_partition(g)
     pos = community_layout(g, partition)
 
-    nx.draw(g, pos, node_color=partition.values()); plt.show()
+    nx.draw(g, pos, node_color=partition.values())
+    plt.show()
     return
