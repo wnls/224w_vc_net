@@ -21,9 +21,9 @@ def rescale(investor_size_list, new_min = 30, new_max = 500):
 
 def construct_graph(network, is_weighted = False):
     if network == "investor":
-        node_list_file = "data/startup_list.txt"
-        edge_list_file = "data/startup_network_undirected_unweighted.txt"
-        edge_weights_file = "data/startup_network_undirected_weights.txt"
+        node_list_file = "data/investor_list.txt"
+        edge_list_file = "data/investor_network_undirected_unweighted.txt"
+        edge_weights_file = "data/investor_network_undirected_weights.txt"
     elif network == "startup":
         node_list_file = "data/startup_list.txt"
         edge_list_file = "data/startup_network_undirected_unweighted.txt"
@@ -36,6 +36,7 @@ def construct_graph(network, is_weighted = False):
         node_size_list.append(int(w))
 
     if network == "startup":
+        f = open("data/investor_list.txt", "r")
         for line in f:
             name, w = line.strip().rsplit(' ', 1)
             investor_list.append(name)
@@ -112,25 +113,30 @@ def louvain_partition_plot(network, is_weighted = False):
         list_nodes = [n for n in partition.keys() if partition[n] == com]
         communities[com] = list_nodes
         comm_size_list.append(len(list_nodes))
-        print("#######community %i size %i" % (com, len(list_nodes)))
-
-        if network == "startup":
-            print("VCs who invest in this community:")
-            for n in set([transactions_startup2vc[node_list[startup]] for startup in list_nodes]):
-                print(n)
-            print("\nStartups:")
-        for n in list_nodes:
-            print("%i %s" % (n, node_list[n]))
-    print("Communities", communities)
-
-
-    # if network == "startup":
-    #     vc_comm = get_vc_for_startup_community(communities)
-    #     for com in set(partition.values()):
-    #         print("#######community %i size %i" % (com, len(communities[com])))
+    #     print("#######community %i size %i" % (com, len(list_nodes)))
+    #
+    #     if network == "startup":
     #         print("VCs who invest in this community:")
-    #         for vc in vc_comm[com]:
-    #             print(vc)
+    #         for n in set([transactions_startup2vc[node_list[startup]] for startup in list_nodes]):
+    #             print(n)
+    #         print("\nStartups:")
+    #     for n in list_nodes:
+    #         print("%i %s" % (n, node_list[n]))
+    # print("Communities", communities)
+
+    for com in set(partition.values()):
+        G_sub = G_nx.subgraph(communities[com])
+        deg_in = 2*G_sub.number_of_edges()
+        deg_total = 0
+        for _,deg in G_nx.degree(communities[com]):
+            deg_total += deg
+        deg_out = deg_total - deg_in
+        print
+        # print(G_nx.degree(communities[com]))
+        print("G_sub.number_of_edges", G_sub.number_of_edges())
+        print("G_sub.degree in", deg_in)
+        print("G_sub.degree total", deg_total)
+        print("G_nx.degree out", deg_out)
 
 
     print("Community size", sorted(comm_size_list, reverse=True))
@@ -167,8 +173,8 @@ def louvain_partition_plot(network, is_weighted = False):
     # nx.draw(G_nx, pos, node_size=100, node_color=partition.values())
     plt.show()
 
-# louvain_partition_plot("investor", is_weighted=False)
-louvain_partition_plot("startup", is_weighted=False)
+louvain_partition_plot("investor", is_weighted=False)
+# louvain_partition_plot("startup", is_weighted=False)
 
 
 
