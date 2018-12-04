@@ -56,6 +56,7 @@ def construct_graph(network, is_weighted = False):
     f.readline()
     f.readline()
     f.readline()
+    global G_nx
     for line in f:
         s, d = [int(i) for i in line.strip().split()]
         G_nx.add_node(s, name=node_list[s])
@@ -66,6 +67,12 @@ def construct_graph(network, is_weighted = False):
             G_nx.add_edge(s, d)
 
     print("nodes", G_nx.number_of_nodes(), "edges", G_nx.number_of_edges())
+
+    # configuration graph
+    deg_seq = [d for n,d in G_nx.degree()]
+    G_nx_conf = nx.configuration_model(deg_seq)
+    G_nx = G_nx_conf
+    print("config model nodes", G_nx.number_of_nodes(), "edges", G_nx.number_of_edges())
 
 # def get_vc_for_startup_community(startup_communities):
 #     f = open("data/transactions.csv", "r")
@@ -113,30 +120,31 @@ def louvain_partition_plot(network, is_weighted = False):
         list_nodes = [n for n in partition.keys() if partition[n] == com]
         communities[com] = list_nodes
         comm_size_list.append(len(list_nodes))
-    #     print("#######community %i size %i" % (com, len(list_nodes)))
-    #
-    #     if network == "startup":
-    #         print("VCs who invest in this community:")
-    #         for n in set([transactions_startup2vc[node_list[startup]] for startup in list_nodes]):
-    #             print(n)
-    #         print("\nStartups:")
-    #     for n in list_nodes:
-    #         print("%i %s" % (n, node_list[n]))
+        print("#######community %i size %i" % (com, len(list_nodes)))
+
+        if network == "startup":
+            print("VCs who invest in this community:")
+            for n in set([transactions_startup2vc[node_list[startup]] for startup in list_nodes]):
+                print(n)
+            print("\nStartups:")
+        for n in list_nodes:
+            print("%i %s" % (n, node_list[n]))
     # print("Communities", communities)
 
-    for com in set(partition.values()):
-        G_sub = G_nx.subgraph(communities[com])
-        deg_in = 2*G_sub.number_of_edges()
-        deg_total = 0
-        for _,deg in G_nx.degree(communities[com]):
-            deg_total += deg
-        deg_out = deg_total - deg_in
-        print
-        # print(G_nx.degree(communities[com]))
-        print("G_sub.number_of_edges", G_sub.number_of_edges())
-        print("G_sub.degree in", deg_in)
-        print("G_sub.degree total", deg_total)
-        print("G_nx.degree out", deg_out)
+    # degree
+    # for com in set(partition.values()):
+    #     G_sub = G_nx.subgraph(communities[com])
+    #     deg_in = 2*G_sub.number_of_edges()
+    #     deg_total = 0
+    #     for _,deg in G_nx.degree(communities[com]):
+    #         deg_total += deg
+    #     deg_out = deg_total - deg_in
+    #     print
+    #     # print(G_nx.degree(communities[com]))
+    #     print("G_sub.number_of_edges", G_sub.number_of_edges())
+    #     print("G_sub.degree in", deg_in)
+    #     print("G_sub.degree total", deg_total)
+    #     print("G_nx.degree out", deg_out)
 
 
     print("Community size", sorted(comm_size_list, reverse=True))
@@ -173,7 +181,7 @@ def louvain_partition_plot(network, is_weighted = False):
     # nx.draw(G_nx, pos, node_size=100, node_color=partition.values())
     plt.show()
 
-louvain_partition_plot("investor", is_weighted=False)
+# louvain_partition_plot("investor", is_weighted=False)
 # louvain_partition_plot("startup", is_weighted=False)
 
 
@@ -218,3 +226,10 @@ louvain_partition_plot("investor", is_weighted=False)
 # ('# nodes', 439, '# edges', 3232)
 # ('CommunityCNM modularity', 0.22546502793843695, '# community', 9)
 # ('CommunityGirvanNewman modularity', 0.02526693920939125, '# community', 302)
+
+sizes = [434, 395, 344, 340, 323, 319, 306, 301, 300, 270, 251, 236, 173, 162, 158, 119, 118, 87, 17, 16, 15, 15, 12, 11, 7, 7, 6, 6, 5, 5, 5, 5, 5, 4, 4, 4, 4, 4, 4, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+plt.plot(sizes)
+plt.xlabel("Community")
+plt.ylabel("Number of nodes in community")
+plt.title("Community size distribution")
+plt.show()
