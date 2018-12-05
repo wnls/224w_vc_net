@@ -229,7 +229,7 @@ def build_graph(transactions):
 	startup_list, investor_list = [], []
 	startup_num, investor_num = 0, 0
 
-	G1_weights, G1d_weights, G2_weights = dict(), dict(), dict()
+	G1_weights, G1_weights_jaccard, G1d_weights, G2_weights = dict(), dict(), dict(), dict()
 
 	for item in transactions:
 		investor = item[0]
@@ -272,6 +272,13 @@ def build_graph(transactions):
 					if (u, v) not in G1_weights:
 						G1_weights[(u, v)] = 0
 					G1_weights[(u, v)] += 1
+					# Jaccard index as edge weights
+					if (u, v) not in G1_weights_jaccard:
+						startups_a = investor_startups[investor_a]
+						startups_b = investor_startups[investor_b]
+						j = float(len(startups_a.intersection(startups_b))) / len(startups_a.union(startups_b))
+						G1_weights_jaccard[(u, v)] = j
+
 	print G1.GetNodes(), G1.GetEdges()
 
 	### save investor graph
@@ -283,7 +290,9 @@ def build_graph(transactions):
 		for key in G1_weights:
 			f.write(str(key[0]) + ' ' + str(key[1]) + ' ' + str(G1_weights[key]) + '\n')
 		
-	
+	with open('investor_network_undirected_weights_jaccard.txt', 'w') as f:
+		for key in G1_weights_jaccard:
+			f.write(str(key[0]) + ' ' + str(key[1]) + ' ' + str(G1_weights_jaccard[key]) + '\n')
 
 
 	### build directed investor graph
@@ -398,18 +407,28 @@ def do_motif_analysis(G):
 	motifs_std = np.std(motifs, axis = 0)
 	z_scores = ((motif_origin - motifs_mean) / motifs_std)
 	print z_scores
-    
+
+
+def read_transaction_csv(f_name="./data/transactions.csv"):
+	transactions = []
+	with open(f_name) as file:
+		reader = csv.reader(file, delimiter=',')
+		for line in reader:
+			transactions.append(line)
+	return transactions
+
 def main():
-	vc_list = read_vc_list()
-	transactions = read_transaction_data(vc_list)
+	# vc_list = read_vc_list()
+	# transactions = read_transaction_data(vc_list)
 	# get_data_stats(transactions)
+	transactions = read_transaction_csv()
 	
 	G1, G1d, G2, investor_list, startup_list = build_graph(transactions)
 	# get_graph_overview(G1)
 	# do_motif_analysis(G1d)
 
 if __name__ == '__main__':
-	directed_3 = load_3_subgraphs()
-	motif_counts = [0]*len(directed_3)
+	# directed_3 = load_3_subgraphs()
+	# motif_counts = [0]*len(directed_3)
 
 	main()
