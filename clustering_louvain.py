@@ -19,11 +19,14 @@ def rescale(investor_size_list, new_min = 30, new_max = 500):
     old_min = min(investor_size_list)
     return [int(1.0*(new_max - new_min) * (x - old_min) / (old_max - old_min) + new_min) for x in investor_size_list]
 
-def construct_graph(network, is_weighted = False):
+def construct_graph(network, is_weighted = False, weight_method = "default"):
     if network == "investor":
         node_list_file = "data/investor_list.txt"
         edge_list_file = "data/investor_network_undirected_unweighted.txt"
-        edge_weights_file = "data/investor_network_undirected_weights.txt"
+        if weight_method == "default":
+            edge_weights_file = "data/investor_network_undirected_weights.txt"
+        elif weight_method == "jaccard":
+            edge_weights_file = "data/investor_network_undirected_weights_jaccard.txt"
     elif network == "startup":
         node_list_file = "data/startup_list.txt"
         edge_list_file = "data/startup_network_undirected_unweighted.txt"
@@ -49,7 +52,9 @@ def construct_graph(network, is_weighted = False):
     if is_weighted and edge_weights_file is not None:
         f = open(edge_weights_file, "r")
         for line in f:
-            s, d, w = [int(i) for i in line.strip().split()]
+            s, d, w = line.strip().split()
+            s = int(s)
+            d = int(d)
             weights_dict[(s, d)] = float(w)
 
     f = open(edge_list_file, "r")
@@ -66,13 +71,14 @@ def construct_graph(network, is_weighted = False):
         else:
             G_nx.add_edge(s, d)
 
+    print("%s %s" % ("weighted" if is_weighted else "unweighted", weight_method))
     print("nodes", G_nx.number_of_nodes(), "edges", G_nx.number_of_edges())
 
     # configuration graph
-    deg_seq = [d for n,d in G_nx.degree()]
-    G_nx_conf = nx.configuration_model(deg_seq)
-    G_nx = G_nx_conf
-    print("config model nodes", G_nx.number_of_nodes(), "edges", G_nx.number_of_edges())
+    # deg_seq = [d for n,d in G_nx.degree()]
+    # G_nx_conf = nx.configuration_model(deg_seq)
+    # G_nx = G_nx_conf
+    # print("config model nodes", G_nx_conf.number_of_nodes(), "edges", G_nx_conf.number_of_edges())
 
 # def get_vc_for_startup_community(startup_communities):
 #     f = open("data/transactions.csv", "r")
@@ -86,8 +92,8 @@ def construct_graph(network, is_weighted = False):
 #         vc_comm[com] =
 #     return vc_comm
 
-def louvain_partition_plot(network, is_weighted = False):
-    construct_graph(network, is_weighted)
+def louvain_partition_plot(network, is_weighted = False, weight_method = "default"):
+    construct_graph(network, is_weighted, weight_method)
 
     ## degree distribution
 
@@ -181,7 +187,7 @@ def louvain_partition_plot(network, is_weighted = False):
     # nx.draw(G_nx, pos, node_size=100, node_color=partition.values())
     plt.show()
 
-# louvain_partition_plot("investor", is_weighted=False)
+louvain_partition_plot("investor", is_weighted=True, weight_method="default")
 # louvain_partition_plot("startup", is_weighted=False)
 
 
@@ -227,9 +233,9 @@ def louvain_partition_plot(network, is_weighted = False):
 # ('CommunityCNM modularity', 0.22546502793843695, '# community', 9)
 # ('CommunityGirvanNewman modularity', 0.02526693920939125, '# community', 302)
 
-sizes = [434, 395, 344, 340, 323, 319, 306, 301, 300, 270, 251, 236, 173, 162, 158, 119, 118, 87, 17, 16, 15, 15, 12, 11, 7, 7, 6, 6, 5, 5, 5, 5, 5, 4, 4, 4, 4, 4, 4, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
-plt.plot(sizes)
-plt.xlabel("Community")
-plt.ylabel("Number of nodes in community")
-plt.title("Community size distribution")
-plt.show()
+# sizes = [434, 395, 344, 340, 323, 319, 306, 301, 300, 270, 251, 236, 173, 162, 158, 119, 118, 87, 17, 16, 15, 15, 12, 11, 7, 7, 6, 6, 5, 5, 5, 5, 5, 4, 4, 4, 4, 4, 4, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+# plt.plot(sizes)
+# plt.xlabel("Community")
+# plt.ylabel("Number of nodes in community")
+# plt.title("Community size distribution")
+# plt.show()
