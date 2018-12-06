@@ -1,0 +1,47 @@
+#######community 0 size 8
+0
+2
+15
+31
+167
+45
+49
+73
+#######community 1 size 4
+1
+186
+79
+104
+#######community 2 size 5
+4
+9
+17
+148
+57
+#######community 3 size 3
+7
+50
+147
+#######community 4 size 2
+11
+309
+#######community 5 size 3
+19
+439
+118
+#######community 6 size 4
+22
+177
+64
+372
+#######community 7 size 2
+153
+26
+#######community 8 size 4
+171
+47
+488
+119
+#######community 9 size 2
+145
+495
