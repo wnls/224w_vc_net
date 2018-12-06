@@ -134,24 +134,24 @@ def louvain_partition_plot(network, graph, is_weighted = False, weight_method = 
     communities = {}
     comm_size_list = []
 
-    # for com in set(partition.values()):
-    #     # count += 1.
-    #     list_nodes = [n for n in partition.keys() if partition[n] == com]
-    #     communities[com] = list_nodes
-    #     comm_size_list.append(len(list_nodes))
-    #     print("#######community %i size %i" % (com, len(list_nodes)))
-    #
-    #     if network == "startup":
-    #         print("VCs who invest in this community:")
-    #         for n in set([transactions_startup2vc[node_list[startup]] for startup in list_nodes]):
-    #             print(n)
-    #         print("\nStartups:")
-    #     for n in list_nodes:
-    #         print("%i %s" % (n, node_list[n]))
-    # print("Communities", communities)
+    for com in set(partition.values()):
+        # count += 1.
+        list_nodes = [n for n in partition.keys() if partition[n] == com]
+        communities[com] = list_nodes
+        comm_size_list.append(len(list_nodes))
+        print("#######community %i size %i" % (com, len(list_nodes)))
+
+        if network == "startup":
+            print("VCs who invest in this community:")
+            for n in set([transactions_startup2vc[node_list[startup]] for startup in list_nodes]):
+                print(n)
+            print("\nStartups:")
+        for n in list_nodes:
+            print("%i %s" % (n, node_list[n]))
+    print("Communities", communities)
 
     # write communities to txt
-    with open("data/Giu_unweighted_by_year/Giu_2018_louvain.txt", 'w') as f:
+    with open("data/investor_network_undirected_w_louvain_cc.txt", 'w') as f:
         for com in set(partition.values()):
             list_nodes = [n for n in partition.keys() if partition[n] == com]
             communities[com] = list_nodes
@@ -159,7 +159,7 @@ def louvain_partition_plot(network, graph, is_weighted = False, weight_method = 
             f.write("#######community %i size %i\n" % (com, len(list_nodes)))
 
             for n in list_nodes:
-                f.write("%i\n" % n)
+                f.write("%i : %s : %i\n" % (n, node_list[n], G_nx.degree(n)))
 
     # degree
     # for com in set(partition.values()):
@@ -179,6 +179,7 @@ def louvain_partition_plot(network, graph, is_weighted = False, weight_method = 
 
     print("Community size", sorted(comm_size_list, reverse=True))
     # plt.plot(np.arange(size), sorted(comm_size_list, reverse=True))
+    # plt.yscale("log")
     # plt.xlabel("Community")
     # plt.ylabel("Number of nodes in community")
     # plt.title("Community size distribution")
@@ -187,21 +188,20 @@ def louvain_partition_plot(network, graph, is_weighted = False, weight_method = 
     ## plot
 
     # plot degree of nodes in communities
-    # list_nodes = []
+    # deg_list = []
     # for com in set(partition.values()):
-    #     # count += 1.
-    #     list_nodes.extend([n for n in partition.keys() if partition[n] == com])
-    # deg_list = G_nx.degree(list_nodes)
-    # # print(deg_list)
+    #     nodes = [n for n in partition.keys() if partition[n] == com]
+    #     deg_list.extend(sorted(G_nx.degree(nodes), key=lambda x: x[1], reverse=True))
     # plt.plot(map(lambda x: x[1], deg_list))
+    # plt.yscale("log")
     # plt.xlabel("Nodes sorted by communities")
     # plt.ylabel("Node degree")
     # plt.title("Node degree by communities")
     # plt.show()
-    #
-    # # draw graph
+
+    # draw graph
     # pos = nx.spring_layout(G_nx)
-    # # pos = community_layout.community_layout(G_nx, partition)
+    # pos = community_layout.community_layout(G_nx, partition)
     # # pos = community_layout._position_communities(G_nx, partition)
     #
     # # nx.draw_networkx_nodes(G_nx, pos, list_nodes, node_size = 10, cmap=plt.cm.RdYlBu, node_color = np.array(partition.values())) #str(count / size)
@@ -212,9 +212,13 @@ def louvain_partition_plot(network, graph, is_weighted = False, weight_method = 
     # plt.show()
 
 
-louvain_partition_plot("investor", graph="data/Giu_unweighted_by_year/Giu_2018.graph",
-                       is_weighted=False, weight_method="default", randomize=False)
+louvain_partition_plot("investor", graph="data/investor_network_undirected_unweighted.txt",
+                       is_weighted=True, weight_method="default", randomize=None)
+# louvain_partition_plot("investor", graph="data/Giu_unweighted_by_year/Giu_2011.graph",
+#                        is_weighted=False, weight_method="default", randomize=None)
 # louvain_partition_plot("startup", is_weighted=False)
+# louvain_partition_plot("startup", graph="data/startup_network_undirected_unweighted.txt",
+#                        is_weighted=False, weight_method="default", randomize=None)
 
 
 
