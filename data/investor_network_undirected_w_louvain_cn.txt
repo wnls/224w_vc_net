@@ -1,0 +1,450 @@
+('Communities', {0: [0, 2, 15, 17, 23, 44, 49, 53, 57, 58, 63, 70, 72, 73, 82, 88, 97, 108, 123, 124, 127, 140, 144, 148, 175, 188, 190, 191, 200, 211, 224, 229, 242, 251, 255, 257, 258, 262, 273, 299, 318, 320, 353, 377, 378, 397, 402, 403, 412, 417, 419, 452, 463, 469, 472, 489], 1: [1, 4, 5, 8, 12, 16, 18, 19, 24, 26, 27, 32, 52, 78, 81, 89, 90, 94, 99, 106, 111, 118, 120, 125, 128, 133, 149, 150, 151, 154, 157, 161, 164, 169, 174, 205, 215, 228, 239, 240, 249, 253, 254, 261, 263, 264, 278, 280, 282, 284, 286, 290, 293, 297, 302, 309, 330, 339, 342, 350, 379, 380, 386, 388, 393, 405, 416, 420, 424, 431, 432, 439, 442, 454, 455, 478, 482, 485, 503], 2: [3, 13, 20, 22, 31, 33, 41, 43, 54, 56, 59, 74, 77, 79, 85, 93, 102, 103, 104, 107, 113, 114, 126, 129, 134, 137, 138, 142, 146, 162, 165, 166, 167, 173, 182, 185, 187, 192, 201, 206, 207, 212, 213, 216, 223, 225, 227, 231, 232, 248, 267, 268, 271, 312, 325, 327, 331, 333, 335, 336, 338, 348, 355, 367, 368, 381, 390, 399, 404, 415, 426, 438, 440, 444, 464, 466, 484, 500], 3: [6, 7, 9, 28, 34, 35, 40, 45, 47, 50, 55, 60, 62, 64, 67, 68, 71, 76, 92, 98, 100, 105, 115, 117, 119, 130, 131, 132, 135, 136, 139, 145, 152, 155, 156, 160, 163, 168, 170, 171, 176, 180, 181, 184, 186, 189, 197, 198, 208, 220, 221, 236, 241, 243, 250, 252, 260, 276, 283, 287, 294, 307, 322, 326, 340, 343, 344, 345, 358, 359, 362, 373, 382, 384, 387, 391, 407, 410, 422, 428, 433, 435, 446, 449, 467, 470, 473, 477, 479, 481, 483, 487, 488, 491, 494, 498, 502, 505], 4: [10, 14, 21, 37, 39, 42, 66, 83, 109, 112, 143, 159, 177, 179, 210, 214, 233, 238, 247, 279, 292, 295, 303, 313, 314, 315, 316, 347, 352, 356, 357, 361, 365, 372, 394, 395, 401, 406, 413, 414, 425, 436, 461, 480, 495], 5: [11, 25, 29, 30, 61, 95, 101, 121, 147, 158, 195, 203, 218, 234, 235, 269, 272, 275, 285, 317, 328, 341, 351, 376, 396, 427, 443, 448], 6: [36, 38, 46, 48, 51, 65, 69, 75, 80, 84, 86, 87, 91, 122, 141, 153, 178, 193, 196, 209, 222, 259, 274, 277, 288, 296, 304, 329, 332, 370, 398, 400, 411, 451, 453, 475, 486, 490, 509], 7: [96, 116, 194, 219, 300, 305, 323, 349, 385, 450, 476, 506], 8: [172, 204, 291, 301]})
+('Community size', [98, 98, 79, 79, 78, 78, 56, 56, 45, 45, 39, 39, 28, 28, 12, 12, 4, 4])
+#######community 0 size 56
+0 : IDG Capital : 159
+2 : Qiming Venture Partners : 97
+15 : Northern Light Venture Capital : 60
+17 : SIG China : 55
+23 : China Growth Capital : 61
+44 : FREES FUND : 43
+49 : Trustbridge Partners : 37
+53 : TAL Education Group : 25
+57 : Zero2IPO Ventures : 23
+58 : Capital Today : 25
+63 : MSA Capital : 43
+70 : Oriental Fortune Capital : 32
+72 : ClearVue Partners : 26
+73 : NewMargin Ventures : 21
+82 : iD TechVentures : 6
+88 : Keytone Ventures : 9
+97 : Puhua Capital : 32
+108 : CASH Capital : 23
+123 : Cybernaut Venture Capital : 13
+124 : Mustang Ventures : 1
+127 : HOPU Investment Management Company : 36
+140 : New Oriental Education & Technology : 6
+144 : TF Capital : 9
+148 : PreIPO : 6
+175 : NetEase Capital : 3
+188 : NetEase : 1
+190 : 10Fund : 3
+191 : Huagai Capital : 7
+200 : Vangoo Investment Partners : 12
+211 : LYZZ Capital : 3
+224 : Shengjing Group : 7
+229 : Sogou : 7
+242 : Summitview Capital : 5
+251 : New Alliance Capital : 10
+255 : Yongjin Group : 7
+257 : Hao Capital : 4
+258 : Chuxin Capital : 6
+262 : Zhixin Capital : 16
+273 : Sunshine Insurance Group Co Ltd : 15
+299 : Cloud Angel Fund : 1
+318 : Jumei : 6
+320 : Ourpalm : 1
+353 : Chenchao Zhuang : 7
+377 : Huang Mingming : 8
+378 : Shenzhen Qianhe Capital Management : 6
+397 : Neusoft Group : 1
+402 : Jiguang : 1
+403 : Xunlei : 2
+412 : Linekong : 6
+417 : FINUP : 5
+419 : KongZhong : 1
+452 : China Environmental Fund : 1
+463 : Sinopharm Group : 1
+469 : Hongyi Zhou : 3
+472 : SDIC Capital : 3
+489 : Huiying Financial Service : 1
+#######community 1 size 79
+1 : Sequoia Capital China : 141
+4 : Matrix Partners China : 134
+5 : ZhenFund : 111
+8 : Sinovation Ventures : 80
+12 : Microsoft Accelerator Beijing : 56
+16 : Cherubic Ventures : 24
+18 : Empower Investment : 22
+19 : Gobi Partners : 49
+24 : K2VC : 58
+26 : Vertex Ventures China : 46
+27 : Yunqi Partners : 41
+32 : Lightspeed China Partners : 46
+52 : Ventech China : 36
+78 : China Merchants Capital : 26
+81 : Tsing Capital : 13
+89 : Addor Capital : 19
+90 : WuXi AppTec : 8
+94 : Cowin Capital : 20
+99 : Haiyin Capital : 3
+106 : Blue Lake Capital AG : 21
+111 : Marathon Venture Partners : 16
+118 : IPV Capital : 10
+120 : Microsoft Accelerator Shanghai : 16
+125 : Cheetah Mobile : 15
+128 : Wu Capital : 19
+133 : Gopher Asset Management : 25
+149 : National SME Development Fund : 10
+150 : Share Capital : 7
+151 : 36Kr : 8
+154 : China Renaissance : 24
+157 : LH Capital Mangement (Shanghai) : 4
+161 : Qianhai Wutong Mergers and Acquisitions Funds : 15
+164 : FIH Mobile : 2
+169 : 23Seed : 4
+174 : NIO Capital : 10
+205 : Huayi Brothers Media Group : 6
+215 : Zhizhuo Capital : 6
+228 : 58.com : 7
+239 : Alpha startups : 4
+240 : Pagoda Investment : 11
+249 : Bob Xu : 11
+253 : Sigma Square Capital : 11
+254 : China Merchants Securities : 18
+261 : Dasbank : 2
+263 : Toutiao : 10
+264 : Ximalaya FM : 5
+278 : Huazhu Hotels Group : 2
+280 : HuangPu River Capital : 6
+282 : Huatai Securities Co., Ltd. : 5
+284 : Huaxing New Economic Fund : 8
+286 : China Pacific Insurance : 4
+290 : Tsinghua Holdings : 6
+293 : Victor Wang : 9
+297 : Richard Chen : 1
+302 : Infotech Ventures : 1
+309 : Zero2IPO Capital : 3
+330 : Bobby Lee : 1
+339 : TCL Communication Technology Holdings Limited : 2
+342 : Bo Feng : 2
+350 : MNC Media Investment : 1
+379 : Maintrend Capital : 4
+380 : ZTEVC : 5
+386 : Right & Sun Investment Holding Co. : 1
+388 : ByteDance : 4
+393 : Yitu Technology : 3
+405 : Gaosi Education Group : 2
+416 : Zero2IPO : 4
+420 : Elex Technology : 2
+424 : Autohome : 1
+431 : China Electronics Corporation (CEC) : 4
+432 : Shou Zi Chew : 1
+439 : SMIC : 2
+442 : Youzu Interactive : 2
+454 : Fang Group : 1
+455 : Weilai Capital : 8
+478 : Wang Sicong : 6
+482 : Hanwang Technology : 1
+485 : Heaven-Sent Capital Management : 5
+503 : Aikang Group : 5
+#######community 2 size 78
+3 : Tencent Holdings : 137
+13 : Alibaba Group : 101
+20 : Hillhouse Capital Group : 89
+22 : Baidu : 75
+31 : CBC Capital : 53
+33 : JD.com : 65
+41 : Tiantu Capital : 45
+43 : Ant Financial : 66
+54 : Tencent Industry Win-Win Fund : 26
+56 : Renren Inc. : 21
+59 : Vision Plus Capital : 38
+74 : DFJ DragonFund : 4
+77 : Meituan-Dianping : 23
+79 : Hony Capital : 28
+85 : Didi Chuxing : 26
+93 : China Merchants Bank : 23
+102 : Ping An : 28
+103 : Boyu Capital : 27
+104 : CITIC PE : 34
+107 : Sina : 15
+113 : Ctrip : 26
+114 : Primavera Capital Group : 27
+126 : Weibo : 16
+129 : Baring Private Equity Asia : 2
+134 : Hongdao Capital : 18
+137 : HNA Group : 15
+138 : CreditEase : 26
+142 : Haier Capital : 9
+146 : Haitong International Securities Group : 27
+162 : Sunac China Holdings : 9
+165 : WANDA Group : 23
+166 : CITIC Securities : 19
+167 : Tiger Fund : 13
+173 : iDreamsky Technology : 10
+182 : Ferry Venture Capital : 14
+185 : Greenwoods Investment : 4
+187 : China Investment Corporation : 20
+192 : China Minsheng Bank : 13
+201 : Cainiao Logistics : 9
+206 : S.F. Express : 7
+207 : Jun Lei : 11
+212 : China Life Insurance : 18
+213 : Wang Gang : 17
+216 : Yinxinggu Capital : 5
+223 : Venture TDF : 5
+225 : Jingwei Investments : 17
+227 : SenseTime : 11
+231 : Koubei.com : 10
+232 : Suning Holdings Group : 8
+248 : China Vanke : 12
+267 : Shanghai Media Group : 6
+268 : UCAR : 17
+271 : Bitauto Holdings : 9
+312 : Qunar.com : 8
+325 : SAIC Motor : 4
+327 : BAIC Group : 11
+331 : Midea Group : 1
+333 : He Xiaopeng : 10
+335 : Noah Holdings : 2
+336 : Weixing Chen : 3
+338 : Renren Lianhe Holdings : 1
+348 : China Cinda Asset Management : 7
+355 : HNA Tourism Group : 7
+367 : Yuan Zhen Capital : 5
+368 : Qiaojing Capital : 4
+381 : Songbo Li : 1
+390 : Tencent Music : 2
+399 : Beijing Weiying Technology : 1
+404 : 58 Daojia : 2
+415 : Bank of Communications : 9
+426 : Contemporary Amperex Technology : 2
+438 : Evergrande Health Industry Group : 3
+440 : Ping An Capital : 5
+444 : Enlight Media : 1
+464 : Bohai Leasing : 2
+466 : Zhongzhi Enterprise Group : 3
+484 : Fortune Link : 2
+500 : Zhongding Power : 2
+#######community 3 size 98
+6 : HAX : 7
+7 : Shenzhen Capital Group : 58
+9 : Legend Capital : 97
+28 : N5Capital : 21
+34 : SB China Venture Capital : 53
+35 : Legend Star : 34
+40 : Lilly Asia Ventures : 26
+45 : DT Capital Partners : 36
+47 : Green Pine Capital : 40
+50 : Fortune Venture Capital : 27
+55 : CICC : 58
+60 : Yonghua Capital : 25
+62 : Eastern Bell Venture Capital : 32
+64 : Oriza Holdings : 34
+67 : Alibaba Capital Partners : 17
+68 : Ping An Ventures : 31
+71 : CID Group : 10
+76 : Plug and Play China : 1
+92 : Decheng Capital : 11
+98 : QF Capital : 8
+100 : Qingsong Fund : 10
+105 : Highlight Capital : 15
+115 : GP Capital : 17
+117 : Lenovo Capital and Incubator Group (LCIG) : 27
+119 : Milestone Capital China : 10
+130 : Sumitomo Mitsui Banking Corporation : 2
+131 : Ivy Capital : 16
+132 : China Minsheng Investment Group : 17
+135 : Shenzhen Cowin Venture Capital Investments : 17
+136 : GF Securities : 4
+139 : 3E Bioventures : 13
+145 : ShenZhen GTJA Investment Group : 8
+152 : Shanghai Fosun Pharmaceutical (Group) Co.,Ltd : 7
+155 : Cenova Ventures : 15
+156 : TCL Capital : 22
+160 : Oriza Seed Capital : 16
+163 : Legend Holdings : 14
+168 : TusPark Ventures : 14
+170 : Shenzhen Fortune Venture Capital : 3
+171 : Taishan Invest AG : 5
+176 : Iflytek (Keda Xunfei) : 11
+180 : Innohub Capital : 2
+181 : Capital Nuts Investment Management Ltd : 2
+184 : United Capital Investment Group Limited : 10
+186 : Yuansheng BioVenture : 9
+189 : Bank of China : 10
+197 : State Development & Investment Corporation (SDIC) : 10
+198 : Hermed Capital : 4
+208 : China CITIC Bank : 15
+220 : Frontline BioVentures : 8
+221 : Haitong Kaiyuan Investment : 9
+236 : UTStarcom : 1
+241 : China Venture Capital : 2
+243 : China Oceanwide : 11
+250 : Mangrove Capital : 8
+252 : Quan Capital : 3
+260 : Tianjin Venture Capital : 3
+276 : LYFE Capital : 8
+283 : Shanghai Venture Capital Co.,Ltd : 4
+287 : New China Capital Management : 16
+294 : Hanfor Holdings : 13
+307 : Leaguer Tsing-Yuan Venture Capital : 4
+322 : Hua Partners : 7
+326 : Greenland Hong Kong Holdings Limited : 6
+340 : China Science & Merchants Investment Management Group : 4
+343 : Loyal Valley Capital : 10
+344 : Tsinghua Venture Capital : 5
+345 : Ping An Bank : 7
+358 : Trinitas Capital : 1
+359 : TDF Capital : 6
+362 : Taishan XD (TXD) Ventures : 5
+373 : Infotech Pacific Ventures : 2
+382 : GuoHe Capital : 5
+384 : SIIC Investment : 2
+387 : 91Capital : 1
+391 : Megvii Technology : 4
+407 : Dotc United Group : 5
+410 : CAR Inc. : 6
+422 : UnionPay International : 6
+428 : Jade Capital : 2
+433 : GL Capital : 2
+435 : Chinese Academy Of Sciences : 7
+446 : Guotai Junan Securities : 2
+449 : Luye Pharma : 2
+467 : Broadhi Capital : 1
+470 : China Ministry of Finance : 6
+473 : Bank of Nanjing : 5
+477 : RiverHill Fund : 2
+479 : Real Power Capital : 4
+481 : Prime Value Capital Management : 1
+483 : CMHJ Partners : 2
+487 : HNA Capital : 3
+488 : The Chinese Founders Fund : 4
+491 : China-Israel Value Capital : 1
+494 : GoHigh Fund : 1
+498 : Dunan Holding Group : 2
+502 : CITIC M&A Fund : 3
+505 : Huaxin Century Investment Group : 1
+#######community 4 size 45
+10 : Shunwei Capital : 111
+14 : Chinaccelerator : 3
+21 : Source Code Capital : 62
+37 : Fosun Group : 41
+39 : Xiaomi : 57
+42 : Chengwei Capital : 24
+66 : Plum Ventures : 30
+83 : Aplus Capital : 25
+109 : THG Ventures : 11
+112 : Kunlun : 11
+143 : AngelVest : 4
+159 : Xianghe Capital : 20
+177 : GF Xinde Investment Management : 14
+179 : Tsing Ventures : 2
+210 : FutureCap : 3
+214 : Junsan Capital : 4
+233 : 51 Credit Card Manager : 13
+238 : William Bao Bean : 1
+247 : Hangzhou Liaison Interactive Information Technology : 5
+279 : China Bridge Capital : 3
+292 : Kaiwu Capital : 2
+295 : Share Capital Partners : 2
+303 : China Soft Capital : 10
+313 : WM Motor : 3
+314 : Youku : 1
+315 : Lakala : 5
+316 : TalkingData : 2
+347 : Silverlink Capital : 10
+352 : Beijing Cultural Center Fund : 8
+356 : Zhong Capital Fund : 5
+357 : Zhisland Capital : 2
+361 : China Gaoxin Investment Group Corp. : 4
+365 : Xinhu Zhongbao Co Ltd : 6
+372 : Hua-Yuan Group : 4
+394 : Wecash : 3
+395 : Yeahmobi : 4
+401 : Hundsun Technologies : 2
+406 : Le Sports : 1
+413 : Jack Ma : 2
+414 : Forgame : 3
+425 : Fenqile : 7
+436 : AdMaster : 3
+461 : LongTec China Ventures : 1
+480 : Sunyard : 3
+495 : Co-Power Venture Capital : 6
+#######community 5 size 28
+11 : Morningside Group : 67
+25 : Morningside Venture Capital : 80
+29 : Bertelsmann Asia Investment Fund : 60
+30 : Gaorong Capital : 45
+61 : China Media Capital (CMC) : 37
+95 : SkyChee Ventures : 4
+101 : GX Capital : 38
+121 : JD Finance : 19
+147 : ZSVC : 15
+158 : BioVeda China Fund : 10
+195 : Delta Capital : 12
+203 : Ucommune : 6
+218 : GEOC : 2
+234 : LeEco : 10
+235 : Vipshop : 4
+269 : Wacai : 5
+272 : NetPosa Technologies : 3
+275 : BOE Technology Group : 4
+285 : Zeus Entertainment : 13
+317 : Bona Film Group : 5
+328 : Baidu Video : 4
+341 : Suning.com : 16
+351 : Jinjiang International : 3
+376 : GP Healthcare Capital : 5
+396 : Coocaa : 3
+427 : NavInfo : 2
+443 : Fortune Fountain Capital : 1
+448 : Huace Film & TV : 6
+#######community 6 size 39
+36 : Node Capital : 19
+38 : PreAngel : 29
+46 : Zhonglu Capital : 11
+48 : Decent Capital : 22
+51 : BlockVC : 7
+65 : Fenbushi Capital : 17
+69 : China Equity : 18
+75 : Bitmain : 13
+80 : 01vc : 8
+84 : Sky9 Capital : 33
+86 : Consensus Lab : 17
+87 : CHAIN CAPITAL : 12
+91 : Qihoo 360 Technology : 17
+122 : JRR Crypto : 3
+141 : Vision Knight Capital : 15
+153 : JD Capital : 15
+178 : PurpleSky Capital : 8
+193 : Funcity Capital : 9
+196 : Newgen Venture Partners : 2
+209 : Bo Shen : 8
+222 : VenturesLab : 5
+259 : Li Qing Zeng : 8
+274 : Hakim Unique Internet : 4
+277 : Xiaolai Li : 2
+288 : Tao Zhang : 6
+296 : LeBox Capital : 9
+304 : Qifu Capital Management : 2
+329 : Digital Finance Group : 1
+332 : GSR Capital : 3
+370 : Innovation Camp : 1
+398 : MiningLamp : 1
+400 : imToken : 4
+411 : 8btc.com : 4
+451 : Taiyou Fund : 3
+453 : Bixin : 5
+475 : Manzi Xue : 6
+486 : Deppon Logistics : 3
+490 : Shanghai Liuhe Capital : 3
+509 : Xiangyang Yang : 1
+#######community 7 size 12
+96 : Bojiang Capital(BoomingStar Ventures for the US fund) : 13
+116 : Kaitai Capital : 5
+194 : Shenzhen Leaguer Venture Capital : 8
+219 : Zhongguancun Development Group : 6
+300 : Shanghai Creation Investment : 2
+305 : Pan-Lin Asset Management : 10
+323 : ZTE : 4
+349 : Bank of Beijing : 6
+385 : General Technology Venture Capital : 4
+450 : Tsinghua Tongfang : 1
+476 : Chengdu Technology Transfer Group : 5
+506 : Sichuan Culture Industry Fund : 5
+#######community 8 size 4
+172 : 9F Group : 4
+204 : Focus Media : 5
+291 : Tasly Pharmaceutical : 6
+301 : C-Bridge Capital : 5
