@@ -1,0 +1,156 @@
+###### Investors in this community:
+7 Shenzhen Capital Group
+19 Gobi Partners
+41 Tiantu Capital
+64 Oriza Holdings
+82 iD TechVentures
+384 SIIC Investment
+135 Shenzhen Cowin Venture Capital Investments
+439 SMIC
+452 China Environmental Fund
+491 China-Israel Value Capital
+241 China Venture Capital
+###### Representative startups in this community:
+Brite Semiconductor 2 -- [19, 439]
+LeEco 2 -- [135, 7]
+Shanxi Zinc Industry Group 2 -- [82, 7]
+Shenzhen Winhap Communications 2 -- [241, 7]
+Itibia Technologies 2 -- [64, 7]
+Vtion Wireless Technology 2 -- [491, 7]
+Shanghai SFS Digital Media 2 -- [19, 7]
+Montnets 2 -- [41, 7]
+C2 Microsystems 2 -- [491, 7]
+NetDragon Websoft 2 -- [241, 7]
+Wuxi Qiaolian Wind Power Technology 2 -- [82, 452]
+SMIC 2 -- [384, 7]
+------------------------------------------
+
+###### Investors in this community:
+0 IDG Capital
+1 Sequoia Capital China
+23 China Growth Capital
+25 Morningside Venture Capital
+26 Vertex Ventures China
+42 Chengwei Capital
+52 Ventech China
+58 Capital Today
+69 China Equity
+71 CID Group
+73 NewMargin Ventures
+81 Tsing Capital
+88 Keytone Ventures
+386 Right & Sun Investment Holding Co.
+148 PreIPO
+469 Hongyi Zhou
+223 Venture TDF
+###### Representative startups in this community:
+Baidu 3 -- [0, 69, 223]
+Qihoo 360 Technology 3 -- [0, 1, 469]
+Analogix Semiconductor 2 -- [0, 88]
+shenzhoufu 2 -- [0, 52]
+Yi De 2 -- [0, 58]
+Funinhand 2 -- [0, 73]
+IGG 2 -- [0, 26]
+Tarena 2 -- [0, 23]
+Sohu.com 2 -- [0, 42]
+Mecox Lane 2 -- [1, 148]
+3GV8 International Inc 2 -- [0, 42]
+Tudou 2 -- [0, 58]
+ET Solar Group 2 -- [73, 81]
+Hintsoft 2 -- [0, 1]
+Great Dream 2 -- [1, 386]
+------------------------------------------
+
+###### Investors in this community:
+2 Qiming Venture Partners
+4 Matrix Partners China
+15 Northern Light Venture Capital
+17 SIG China
+22 Baidu
+257 Hao Capital
+45 DT Capital Partners
+48 Decent Capital
+57 Zero2IPO Ventures
+124 Mustang Ventures
+488 The Chinese Founders Fund
+###### Representative startups in this community:
+POLYBONA 3 -- [17, 4, 57]
+Taomee 2 -- [48, 2]
+Kaixin001 2 -- [2, 15]
+Alltech Medical Systems 2 -- [17, 2]
+CITIC Pharmaceutical 2 -- [2, 15]
+iKang Healthcare Group 2 -- [57, 4]
+9DIAMOND 2 -- [57, 2]
+ChinaCache 2 -- [17, 2]
+Shenzhen Zhizun Automobile Leasing Co., Ltd 2 -- [17, 2]
+Ku6 2 -- [45, 22]
+Nurien Software 2 -- [2, 15]
+ICE Entertainment 2 -- [2, 45]
+LP Amina 2 -- [257, 2]
+Touchmedia 2 -- [2, 124]
+ChineseAll Digital Publishing 2 -- [488, 15]
+------------------------------------------
+
+###### Investors in this community:
+5 ZhenFund
+249 Bob Xu
+###### Representative startups in this community:
+LightInTheBox.com 2 -- [249, 5]
+Jumei 2 -- [249, 5]
+------------------------------------------
+
+###### Investors in this community:
+9 Legend Capital
+11 Morningside Group
+13 Alibaba Group
+29 Bertelsmann Asia Investment Fund
+40 Lilly Asia Ventures
+67 Alibaba Capital Partners
+373 Infotech Pacific Ventures
+428 Jade Capital
+###### Representative startups in this community:
+ShopEx 3 -- [9, 67, 13]
+HD Biosciences 2 -- [40, 11]
+Lakala 2 -- [9, 428]
+Phoenix New Media 2 -- [11, 29]
+Bitauto Holdings 2 -- [9, 29]
+Iflytek (Keda Xunfei) 2 -- [9, 373]
+------------------------------------------
+
+###### Investors in this community:
+283 Shanghai Venture Capital Co.,Ltd
+359 TDF Capital
+119 Milestone Capital China
+184 United Capital Investment Group Limited
+###### Representative startups in this community:
+Focus Media 4 -- [184, 359, 283, 119]
+------------------------------------------
+
+###### Investors in this community:
+34 SB China Venture Capital
+93 China Merchants Bank
+236 UTStarcom
+###### Representative startups in this community:
+ChinaWeb 2 -- [34, 93]
+Cellon 2 -- [34, 236]
+------------------------------------------
+
+###### Investors in this community:
+50 Fortune Venture Capital
+307 Leaguer Tsing-Yuan Venture Capital
+340 China Science & Merchants Investment Management Group
+344 Tsinghua Venture Capital
+168 TusPark Ventures
+170 Shenzhen Fortune Venture Capital
+###### Representative startups in this community:
+Sumavision 5 -- [168, 344, 50, 307, 340]
+ChinaNetCenter 2 -- [50, 170]
+------------------------------------------
+
+###### Investors in this community:
+302 Infotech Ventures
+118 IPV Capital
+###### Representative startups in this community:
+iSoftStone 2 -- [302, 118]
+------------------------------------------
+

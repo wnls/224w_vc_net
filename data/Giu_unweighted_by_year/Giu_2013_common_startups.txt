@@ -1,0 +1,153 @@
+###### Investors in this community:
+0 IDG Capital
+20 Hillhouse Capital Group
+22 Baidu
+23 China Growth Capital
+52 Ventech China
+58 Capital Today
+200 Vangoo Investment Partners
+###### Representative startups in this community:
+Secoo 3 -- [0, 200, 52]
+Tongdun Technology 2 -- [0, 23]
+Tongbanjie 2 -- [0, 23]
+Qunar.com 2 -- [20, 22]
+FraudMetrix 2 -- [0, 23]
+Yoka 2 -- [0, 22]
+Three Squirrels 2 -- [0, 58]
+------------------------------------------
+
+###### Investors in this community:
+257 Hao Capital
+2 Qiming Venture Partners
+3 Tencent Holdings
+8 Sinovation Ventures
+26 Vertex Ventures China
+31 CBC Capital
+32 Lightspeed China Partners
+41 Tiantu Capital
+45 DT Capital Partners
+67 Alibaba Capital Partners
+88 Keytone Ventures
+113 Ctrip
+###### Representative startups in this community:
+LP Amina 3 -- [88, 257, 2]
+Tujia 3 -- [32, 2, 31]
+Kamcord 2 -- [8, 3]
+Breadtrip 2 -- [26, 31]
+Phoenix Healthcare Group 2 -- [41, 26]
+Yidao Yongche 2 -- [113, 31]
+Meitu 2 -- [8, 2]
+TaoTaoSou 2 -- [67, 45]
+Nurotron Biotechnology 2 -- [2, 45]
+Yaochufa 2 -- [8, 26]
+------------------------------------------
+
+###### Investors in this community:
+4 Matrix Partners China
+11 Morningside Group
+24 K2VC
+155 Cenova Ventures
+154 China Renaissance
+158 BioVeda China Fund
+13 Alibaba Group
+33 JD.com
+107 Sina
+###### Representative startups in this community:
+Lamabang 3 -- [24, 11, 4]
+Zhaogang 2 -- [24, 4]
+Lexin 2 -- [24, 154]
+Momo 2 -- [4, 13]
+MicuRx Pharmaceuticals 2 -- [11, 158]
+Miaopai 2 -- [107, 11]
+ASLAN Pharmaceuticals 2 -- [11, 155]
+Daojia 2 -- [33, 11]
+------------------------------------------
+
+###### Investors in this community:
+5 ZhenFund
+10 Shunwei Capital
+12 Microsoft Accelerator Beijing
+293 Victor Wang
+39 Xiaomi
+176 Iflytek (Keda Xunfei)
+342 Bo Feng
+295 Share Capital Partners
+###### Representative startups in this community:
+17zuoye 3 -- [10, 5, 293]
+Pebbles Interfaces 3 -- [10, 295, 39]
+Prizeo 2 -- [5, 342]
+Deep Glint 2 -- [12, 5]
+Redcore Times 2 -- [176, 12]
+------------------------------------------
+
+###### Investors in this community:
+1 Sequoia Capital China
+9 Legend Capital
+15 Northern Light Venture Capital
+25 Morningside Venture Capital
+28 N5Capital
+29 Bertelsmann Asia Investment Fund
+54 Tencent Industry Win-Win Fund
+182 Ferry Venture Capital
+168 TusPark Ventures
+###### Representative startups in this community:
+Uxin 3 -- [9, 29, 54]
+Chukong Technologies 2 -- [1, 15]
+Snowball Finance 2 -- [1, 25]
+Howbuy 2 -- [9, 54]
+Dayima 2 -- [1, 29]
+SolarVista Media 2 -- [168, 15]
+Zhitu 2 -- [182, 54]
+Souche 2 -- [1, 182]
+TalkingData 2 -- [28, 15]
+------------------------------------------
+
+###### Investors in this community:
+141 Vision Knight Capital
+34 SB China Venture Capital
+###### Representative startups in this community:
+8Trip 2 -- [34, 141]
+------------------------------------------
+
+###### Investors in this community:
+18 Empower Investment
+48 Decent Capital
+38 PreAngel
+296 LeBox Capital
+46 Zhonglu Capital
+475 Manzi Xue
+222 VenturesLab
+370 Innovation Camp
+###### Representative startups in this community:
+Autotiming 4 -- [48, 475, 222, 38]
+Jianjian 2 -- [46, 38]
+ViewShare 2 -- [296, 38]
+Axalent 2 -- [370, 38]
+Youjia 2 -- [18, 46]
+------------------------------------------
+
+###### Investors in this community:
+131 Ivy Capital
+72 ClearVue Partners
+92 Decheng Capital
+118 IPV Capital
+###### Representative startups in this community:
+111, Inc. 2 -- [72, 131]
+Vobile 2 -- [131, 118]
+Genapsys Inc. 2 -- [92, 118]
+------------------------------------------
+
+###### Investors in this community:
+135 Shenzhen Cowin Venture Capital Investments
+69 China Equity
+###### Representative startups in this community:
+Pinwine.cn 2 -- [69, 135]
+------------------------------------------
+
+###### Investors in this community:
+79 Hony Capital
+232 Suning Holdings Group
+###### Representative startups in this community:
+PPTV 2 -- [232, 79]
+------------------------------------------
+

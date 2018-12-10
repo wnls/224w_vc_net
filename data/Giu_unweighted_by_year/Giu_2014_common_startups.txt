@@ -1,0 +1,245 @@
+###### Investors in this community:
+0 IDG Capital
+2 Qiming Venture Partners
+262 Zhixin Capital
+13 Alibaba Group
+15 Northern Light Venture Capital
+20 Hillhouse Capital Group
+31 CBC Capital
+40 Lilly Asia Ventures
+42 Chengwei Capital
+49 Trustbridge Partners
+55 CICC
+312 Qunar.com
+58 Capital Today
+67 Alibaba Capital Partners
+68 Ping An Ventures
+127 HOPU Investment Management Company
+155 Cenova Ventures
+242 Summitview Capital
+207 Jun Lei
+498 Dunan Holding Group
+###### Representative startups in this community:
+Mogujie 5 -- [0, 2, 20, 262, 127]
+VANCL 3 -- [0, 2, 207]
+Light Chaser Animation 3 -- [0, 42, 20]
+Wacai 3 -- [0, 2, 31]
+LanzaTech 2 -- [2, 55]
+Tongdun Technology 2 -- [0, 31]
+INMAN 2 -- [0, 67]
+Yinman 2 -- [0, 13]
+Mogoroom 2 -- [0, 68]
+Chunyu Yisheng 2 -- [498, 55]
+DewMobile 2 -- [0, 15]
+IMPACT Therapeutics 2 -- [40, 155]
+Crossbar 2 -- [31, 15]
+Grab 2 -- [312, 20]
+Qingqing Jiajiao 2 -- [0, 49]
+------------------------------------------
+
+###### Investors in this community:
+1 Sequoia Capital China
+18 Empower Investment
+21 Source Code Capital
+26 Vertex Ventures China
+28 N5Capital
+29 Bertelsmann Asia Investment Fund
+41 Tiantu Capital
+70 Oriental Fortune Capital
+93 China Merchants Bank
+372 Hua-Yuan Group
+380 ZTEVC
+126 Weibo
+144 TF Capital
+157 LH Capital Mangement (Shanghai)
+185 Greenwoods Investment
+192 China Minsheng Bank
+467 Broadhi Capital
+323 ZTE
+###### Representative startups in this community:
+Jiuxian 4 -- [192, 1, 93, 70]
+Yaochufa 3 -- [1, 26, 41]
+Toutiao 3 -- [1, 21, 126]
+DJI 2 -- [1, 157]
+Huizhuang 2 -- [18, 28]
+inMotion/SoloWheel 2 -- [41, 28]
+37mhealth 2 -- [467, 28]
+Metao.com 2 -- [185, 26]
+juaicai.cn 2 -- [372, 21]
+PPzuche.com 2 -- [1, 21]
+YOHO 2 -- [26, 29]
+ZAI Lab 2 -- [144, 1]
+Smarter Microelectronics 2 -- [26, 380]
+MemBlaze 2 -- [323, 29]
+Dayima 2 -- [1, 29]
+------------------------------------------
+
+###### Investors in this community:
+3 Tencent Holdings
+33 JD.com
+54 Tencent Industry Win-Win Fund
+64 Oriza Holdings
+79 Hony Capital
+101 GX Capital
+103 Boyu Capital
+113 Ctrip
+129 Baring Private Equity Asia
+167 Tiger Fund
+###### Representative startups in this community:
+LY.com 4 -- [64, 113, 3, 103]
+Tuniu 3 -- [33, 113, 79]
+MissFresh E-Commerce 2 -- [3, 101]
+Didi Chuxing 2 -- [3, 54]
+COFCO 2 -- [129, 103]
+Picooc Technology 2 -- [33, 3]
+Koudai 2 -- [3, 167]
+STX Entertainment 2 -- [3, 79]
+------------------------------------------
+
+###### Investors in this community:
+4 Matrix Partners China
+8 Sinovation Ventures
+12 Microsoft Accelerator Beijing
+17 SIG China
+24 K2VC
+32 Lightspeed China Partners
+52 Ventech China
+61 China Media Capital (CMC)
+63 MSA Capital
+72 ClearVue Partners
+141 Vision Knight Capital
+146 Haitong International Securities Group
+200 Vangoo Investment Partners
+228 58.com
+235 Vipshop
+###### Representative startups in this community:
+Asia Innovation 4 -- [8, 52, 12, 63]
+Jimubox 3 -- [52, 4, 63]
+Meiyou 3 -- [24, 17, 4]
+Lamabang 3 -- [24, 235, 4]
+91JinRong 3 -- [12, 146, 4]
+Secoo 3 -- [200, 52, 61]
+eDaijia 2 -- [32, 228]
+Easemob Technologies 2 -- [17, 4]
+uuzuche.com 2 -- [24, 32]
+FangDD.com 2 -- [32, 141]
+QingCloud 2 -- [32, 4]
+Fruitday 2 -- [72, 17]
+Dnurse 2 -- [8, 12]
+VIPKID 2 -- [8, 4]
+------------------------------------------
+
+###### Investors in this community:
+5 ZhenFund
+11 Morningside Group
+293 Victor Wang
+53 TAL Education Group
+353 Chenchao Zhuang
+104 CITIC PE
+362 Taishan XD (TXD) Ventures
+377 Huang Mingming
+171 Taishan Invest AG
+330 Bobby Lee
+213 Wang Gang
+249 Bob Xu
+255 Yongjin Group
+###### Representative startups in this community:
+Ready4 3 -- [255, 5, 53]
+Meiaoju 3 -- [362, 171, 5]
+The Minerva Project 3 -- [255, 5, 53]
+MailTime 3 -- [377, 5, 213]
+iCarsClub 3 -- [353, 11, 377]
+Omni Prime Inc. 3 -- [249, 5, 293]
+Maicoin 2 -- [330, 5]
+nice 2 -- [11, 5]
+Cheyipai 2 -- [104, 11]
+------------------------------------------
+
+###### Investors in this community:
+7 Shenzhen Capital Group
+10 Shunwei Capital
+22 Baidu
+25 Morningside Venture Capital
+30 Gaorong Capital
+39 Xiaomi
+257 Hao Capital
+46 Zhonglu Capital
+143 AngelVest
+165 WANDA Group
+166 CITIC Securities
+###### Representative startups in this community:
+Huami 3 -- [25, 30, 39]
+iQiyi 3 -- [10, 22, 39]
+Wanxue Education 2 -- [257, 22]
+Vericant 2 -- [10, 143]
+HIHEY.COM 2 -- [166, 7]
+Sunmi Technology 2 -- [39, 7]
+Jimubox 2 -- [10, 39]
+Blued 2 -- [10, 46]
+Wanda E-Commerce 2 -- [165, 22]
+Iwjw 2 -- [10, 30]
+Misfit Wearables 2 -- [10, 39]
+------------------------------------------
+
+###### Investors in this community:
+9 Legend Capital
+23 China Growth Capital
+34 SB China Venture Capital
+48 Decent Capital
+71 CID Group
+359 TDF Capital
+184 United Capital Investment Group Limited
+###### Representative startups in this community:
+VeriSilicon Holdings 4 -- [184, 9, 34, 71]
+DHgate 2 -- [359, 23]
+Grape Life 2 -- [48, 9]
+Tongbanjie 2 -- [9, 23]
+------------------------------------------
+
+###### Investors in this community:
+16 Cherubic Ventures
+19 Gobi Partners
+27 Yunqi Partners
+38 PreAngel
+73 NewMargin Ventures
+368 Qiaojing Capital
+178 PurpleSky Capital
+222 VenturesLab
+###### Representative startups in this community:
+Bellabeat 2 -- [16, 27]
+Raiing 2 -- [19, 38]
+Dianwoda 2 -- [368, 19]
+Spottly 2 -- [16, 19]
+OKCoin 2 -- [222, 38]
+O2Bra 2 -- [178, 38]
+Groopie 2 -- [73, 38]
+------------------------------------------
+
+###### Investors in this community:
+43 Ant Financial
+118 IPV Capital
+###### Representative startups in this community:
+V-Key 2 -- [43, 118]
+------------------------------------------
+
+###### Investors in this community:
+74 DFJ DragonFund
+170 Shenzhen Fortune Venture Capital
+###### Representative startups in this community:
+Lomark 2 -- [74, 170]
+------------------------------------------
+
+###### Investors in this community:
+274 Hakim Unique Internet
+147 ZSVC
+###### Representative startups in this community:
+Weidai 2 -- [274, 147]
+------------------------------------------
+
+###### Investors in this community:
+186 Yuansheng BioVenture
+220 Frontline BioVentures
+###### Representative startups in this community:
+MID Labs 2 -- [186, 220]
+------------------------------------------
+

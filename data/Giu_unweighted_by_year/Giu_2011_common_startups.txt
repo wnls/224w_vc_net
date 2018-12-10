@@ -1,0 +1,111 @@
+###### Investors in this community:
+0 IDG Capital
+17 SIG China
+153 JD Capital
+26 Vertex Ventures China
+52 Ventech China
+55 CICC
+67 Alibaba Capital Partners
+82 iD TechVentures
+207 Jun Lei
+104 CITIC PE
+###### Representative startups in this community:
+91 Boyuan Wireless 3 -- [0, 26, 82]
+VANCL 3 -- [0, 104, 207]
+New China Life Insurance 2 -- [104, 55]
+Secoo 2 -- [0, 52]
+Aigou 2 -- [0, 67]
+Motor2 2 -- [0, 17]
+Adsame 2 -- [17, 26]
+Ningbo Renjian Pharmaceutical 2 -- [153, 26]
+Green A 2 -- [0, 104]
+------------------------------------------
+
+###### Investors in this community:
+1 Sequoia Capital China
+4 Matrix Partners China
+8 Sinovation Ventures
+19 Gobi Partners
+171 Taishan Invest AG
+47 Green Pine Capital
+309 Zero2IPO Capital
+57 Zero2IPO Ventures
+58 Capital Today
+70 Oriental Fortune Capital
+###### Representative startups in this community:
+ihush.com 2 -- [58, 4]
+Umeng 2 -- [8, 4]
+Jiuxian 2 -- [1, 70]
+Hoolai Games 2 -- [1, 309]
+Youbei Game 2 -- [57, 47]
+MoboTap 2 -- [1, 4]
+VIPstore.com 2 -- [171, 47]
+Doodle Mobile 2 -- [8, 57]
+Camera360 2 -- [19, 4]
+Tuniu 2 -- [1, 19]
+Kingnet 2 -- [57, 4]
+Ganji 2 -- [1, 58]
+------------------------------------------
+
+###### Investors in this community:
+2 Qiming Venture Partners
+5 ZhenFund
+10 Shunwei Capital
+25 Morningside Venture Capital
+293 Victor Wang
+71 CID Group
+397 Neusoft Group
+249 Bob Xu
+###### Representative startups in this community:
+17zuoye 4 -- [249, 10, 5, 293]
+Xiaomi 3 -- [25, 2, 10]
+CrownBio 2 -- [2, 71]
+Appconomy 2 -- [2, 397]
+------------------------------------------
+
+###### Investors in this community:
+131 Ivy Capital
+135 Shenzhen Cowin Venture Capital Investments
+13 Alibaba Group
+15 Northern Light Venture Capital
+167 Tiger Fund
+45 DT Capital Partners
+64 Oriza Holdings
+200 Vangoo Investment Partners
+88 Keytone Ventures
+483 CMHJ Partners
+###### Representative startups in this community:
+Prudent Energy 3 -- [200, 45, 15]
+Jiangsu Sanhuan Industrial (Group) 3 -- [483, 45, 135]
+Meituan.com 2 -- [13, 15]
+Beijing Redbaby Internet Technology 2 -- [88, 15]
+Anyang Phoenix Photovoltaic Technology 2 -- [131, 135]
+Centec Networks 2 -- [64, 45]
+Letao 2 -- [45, 167]
+DerbySoft 2 -- [88, 15]
+------------------------------------------
+
+###### Investors in this community:
+9 Legend Capital
+54 Tencent Industry Win-Win Fund
+433 GL Capital
+###### Representative startups in this community:
+Gaopeng 2 -- [9, 54]
+Pharmaron Holding 2 -- [9, 433]
+------------------------------------------
+
+###### Investors in this community:
+146 Haitong International Securities Group
+361 China Gaoxin Investment Group Corp.
+###### Representative startups in this community:
+Teamsun Technology Co. 2 -- [361, 146]
+------------------------------------------
+
+###### Investors in this community:
+29 Bertelsmann Asia Investment Fund
+49 Trustbridge Partners
+###### Representative startups in this community:
+Mogujie 2 -- [49, 29]
+Douban 2 -- [49, 29]
+------------------------------------------
+

@@ -1,0 +1,98 @@
+###### Investors in this community:
+0 IDG Capital
+2 Qiming Venture Partners
+15 Northern Light Venture Capital
+31 CBC Capital
+167 Tiger Fund
+45 DT Capital Partners
+49 Trustbridge Partners
+73 NewMargin Ventures
+###### Representative startups in this community:
+Shineon 2 -- [0, 15]
+2Duche 2 -- [0, 2]
+Jiubang Digital Technology Co. 2 -- [0, 31]
+Prudent Energy 2 -- [45, 15]
+VANCL 2 -- [0, 73]
+Yi Ji Electrical Appliance 2 -- [0, 49]
+Letao 2 -- [45, 167]
+------------------------------------------
+
+###### Investors in this community:
+1 Sequoia Capital China
+186 Yuansheng BioVenture
+79 Hony Capital
+104 CITIC PE
+###### Representative startups in this community:
+Happigo.com 3 -- [104, 1, 79]
+Eddingpharm (Cayman) 2 -- [1, 186]
+------------------------------------------
+
+###### Investors in this community:
+4 Matrix Partners China
+9 Legend Capital
+17 SIG China
+148 PreIPO
+57 Zero2IPO Ventures
+###### Representative startups in this community:
+POLYBONA 4 -- [17, 148, 4, 57]
+Mbaobao 2 -- [9, 57]
+21Cake Food Co. 2 -- [9, 57]
+------------------------------------------
+
+###### Investors in this community:
+7 Shenzhen Capital Group
+50 Fortune Venture Capital
+147 ZSVC
+###### Representative startups in this community:
+AMT 2 -- [50, 147]
+Lily BlueFlame Culture Media 2 -- [50, 7]
+------------------------------------------
+
+###### Investors in this community:
+11 Morningside Group
+309 Zero2IPO Capital
+###### Representative startups in this community:
+Origene Technologies 2 -- [11, 309]
+------------------------------------------
+
+###### Investors in this community:
+19 Gobi Partners
+439 SMIC
+118 IPV Capital
+###### Representative startups in this community:
+Brite Semiconductor 3 -- [19, 118, 439]
+------------------------------------------
+
+###### Investors in this community:
+22 Baidu
+177 GF Xinde Investment Management
+64 Oriza Holdings
+372 Hua-Yuan Group
+###### Representative startups in this community:
+Jia.com 4 -- [64, 177, 372, 22]
+------------------------------------------
+
+###### Investors in this community:
+153 JD Capital
+26 Vertex Ventures China
+###### Representative startups in this community:
+Wuxi Hua Dong Heavy Machinery 2 -- [153, 26]
+------------------------------------------
+
+###### Investors in this community:
+171 Taishan Invest AG
+47 Green Pine Capital
+488 The Chinese Founders Fund
+119 Milestone Capital China
+###### Representative startups in this community:
+VIPstore.com 3 -- [488, 171, 47]
+Ushi 2 -- [171, 119]
+------------------------------------------
+
+###### Investors in this community:
+145 ShenZhen GTJA Investment Group
+495 Co-Power Venture Capital
+###### Representative startups in this community:
+Beijing Herun Detang Media and Advertising 2 -- [145, 495]
+------------------------------------------
+

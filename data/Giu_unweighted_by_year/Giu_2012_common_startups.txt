@@ -1,0 +1,110 @@
+###### Investors in this community:
+0 IDG Capital
+2 Qiming Venture Partners
+9 Legend Capital
+10 Shunwei Capital
+11 Morningside Group
+12 Microsoft Accelerator Beijing
+16 Cherubic Ventures
+17 SIG China
+29 Bertelsmann Asia Investment Fund
+###### Representative startups in this community:
+Mogujie 3 -- [0, 2, 29]
+Yek Mobile 2 -- [0, 10]
+Xiaomi 2 -- [2, 11]
+Secoo 2 -- [0, 29]
+Fotoable 2 -- [16, 12]
+DXY 2 -- [9, 10]
+Testin 2 -- [0, 12]
+TouchPal 2 -- [17, 2]
+------------------------------------------
+
+###### Investors in this community:
+1 Sequoia Capital China
+259 Li Qing Zeng
+24 K2VC
+26 Vertex Ventures China
+32 Lightspeed China Partners
+48 Decent Capital
+58 Capital Today
+19 Gobi Partners
+###### Representative startups in this community:
+Meilele 3 -- [24, 32, 26]
+Changba 3 -- [48, 1, 26]
+Gokuai Technology 2 -- [1, 19]
+Meituan-Dianping 2 -- [1, 58]
+FangDD.com 2 -- [48, 259]
+------------------------------------------
+
+###### Investors in this community:
+3 Tencent Holdings
+22 Baidu
+207 Jun Lei
+107 Sina
+###### Representative startups in this community:
+GWC 4 -- [107, 3, 22, 207]
+------------------------------------------
+
+###### Investors in this community:
+4 Matrix Partners China
+5 ZhenFund
+13 Alibaba Group
+293 Victor Wang
+41 Tiantu Capital
+377 Huang Mingming
+249 Bob Xu
+###### Representative startups in this community:
+Blueseed 3 -- [249, 5, 293]
+Momo 2 -- [4, 13]
+Zhaogang 2 -- [4, 5]
+Best Learning English 2 -- [41, 5]
+Ready4 2 -- [377, 5]
+------------------------------------------
+
+###### Investors in this community:
+7 Shenzhen Capital Group
+73 NewMargin Ventures
+###### Representative startups in this community:
+Xmybox 2 -- [73, 7]
+------------------------------------------
+
+###### Investors in this community:
+8 Sinovation Ventures
+15 Northern Light Venture Capital
+34 SB China Venture Capital
+454 Fang Group
+88 Keytone Ventures
+###### Representative startups in this community:
+Beijing Redbaby Internet Technology 2 -- [88, 15]
+AppChina 2 -- [8, 454]
+Anquanbao 2 -- [8, 15]
+Halation Photonics 2 -- [34, 15]
+------------------------------------------
+
+###### Investors in this community:
+35 Legend Star
+168 TusPark Ventures
+312 Qunar.com
+57 Zero2IPO Ventures
+353 Chenchao Zhuang
+###### Representative startups in this community:
+Rong360 3 -- [312, 57, 353]
+AISpeech 2 -- [168, 35]
+Tinman Arts 2 -- [57, 35]
+------------------------------------------
+
+###### Investors in this community:
+42 Chengwei Capital
+81 Tsing Capital
+###### Representative startups in this community:
+Polyera 2 -- [81, 42]
+------------------------------------------
+
+###### Investors in this community:
+187 China Investment Corporation
+103 Boyu Capital
+114 Primavera Capital Group
+###### Representative startups in this community:
+Alibaba Group 3 -- [114, 187, 103]
+------------------------------------------
+

@@ -1,0 +1,402 @@
+###### Investors in this community:
+0 IDG Capital
+19 Gobi Partners
+20 Hillhouse Capital Group
+22 Baidu
+44 FREES FUND
+73 NewMargin Ventures
+83 Aplus Capital
+103 Boyu Capital
+117 Lenovo Capital and Incubator Group (LCIG)
+125 Cheetah Mobile
+159 Xianghe Capital
+173 iDreamsky Technology
+175 NetEase Capital
+278 Huazhu Hotels Group
+314 Youku
+347 Silverlink Capital
+349 Bank of Beijing
+350 MNC Media Investment
+352 Beijing Cultural Center Fund
+388 ByteDance
+393 Yitu Technology
+412 Linekong
+427 NavInfo
+###### Representative startups in this community:
+iQiyi 7 -- [0, 352, 103, 20, 22, 347, 159]
+SoundAI 5 -- [412, 83, 44, 349, 22]
+NIO 5 -- [0, 73, 20, 117, 22]
+Live.me 4 -- [0, 19, 388, 125]
+Proxy42 2 -- [117, 173]
+ThinkForce 2 -- [393, 20]
+Sale Stock Indonesia 2 -- [19, 350]
+Chengjia Apartment 2 -- [0, 278]
+Tianjin Galaxy Cool Media 2 -- [314, 83]
+AccutarBio 2 -- [0, 393]
+Particle Media 2 -- [0, 175]
+HoloMatic 2 -- [0, 427]
+Qingqing Jiajiao 2 -- [0, 44]
+Changingedu 2 -- [0, 44]
+Lefit 2 -- [0, 20]
+------------------------------------------
+
+###### Investors in this community:
+1 Sequoia Capital China
+3 Tencent Holdings
+5 ZhenFund
+8 Sinovation Ventures
+17 SIG China
+21 Source Code Capital
+27 Yunqi Partners
+29 Bertelsmann Asia Investment Fund
+32 Lightspeed China Partners
+42 Chengwei Capital
+45 DT Capital Partners
+52 Ventech China
+53 TAL Education Group
+59 Vision Plus Capital
+63 MSA Capital
+70 Oriental Fortune Capital
+81 Tsing Capital
+108 CASH Capital
+140 New Oriental Education & Technology
+154 China Renaissance
+161 Qianhai Wutong Mergers and Acquisitions Funds
+190 10Fund
+203 Ucommune
+206 S.F. Express
+215 Zhizhuo Capital
+271 Bitauto Holdings
+305 Pan-Lin Asset Management
+338 Renren Lianhe Holdings
+390 Tencent Music
+402 Jiguang
+431 China Electronics Corporation (CEC)
+444 Enlight Media
+490 Shanghai Liuhe Capital
+503 Aikang Group
+###### Representative startups in this community:
+Ucommune 5 -- [8, 1, 503, 5, 161]
+Mobike 4 -- [8, 1, 3, 63]
+Er Geng 4 -- [59, 5, 70, 21]
+Xiaodian 4 -- [1, 3, 45, 59]
+Xiaoyu Link 4 -- [8, 32, 42, 5]
+Xingbianli 4 -- [32, 1, 154, 59]
+Medlinker 4 -- [1, 154, 3, 431]
+Yixue Education 3 -- [17, 140, 108]
+Shuidi 3 -- [8, 3, 5]
+Yongqianbao 3 -- [8, 108, 21]
+Yi23 3 -- [1, 5, 215]
+VIPKID 3 -- [8, 1, 3]
+Wonder Workshop 3 -- [8, 3, 53]
+YCloset 3 -- [1, 5, 305]
+Yixin Capital 3 -- [3, 206, 271]
+------------------------------------------
+
+###### Investors in this community:
+2 Qiming Venture Partners
+11 Morningside Group
+12 Microsoft Accelerator Beijing
+15 Northern Light Venture Capital
+24 K2VC
+31 CBC Capital
+35 Legend Star
+40 Lilly Asia Ventures
+57 Zero2IPO Ventures
+58 Capital Today
+62 Eastern Bell Venture Capital
+66 Plum Ventures
+92 Decheng Capital
+106 Blue Lake Capital AG
+127 HOPU Investment Management Company
+133 Gopher Asset Management
+135 Shenzhen Cowin Venture Capital Investments
+139 3E Bioventures
+144 TF Capital
+157 LH Capital Mangement (Shanghai)
+160 Oriza Seed Capital
+174 NIO Capital
+189 Bank of China
+198 Hermed Capital
+208 China CITIC Bank
+229 Sogou
+240 Pagoda Investment
+242 Summitview Capital
+251 New Alliance Capital
+252 Quan Capital
+303 China Soft Capital
+345 Ping An Bank
+358 Trinitas Capital
+394 Wecash
+494 GoHigh Fund
+###### Representative startups in this community:
+ShopEx 4 -- [24, 251, 133, 31]
+Royole Corporation 3 -- [208, 345, 189]
+Youshu.cc 3 -- [66, 106, 62]
+ThreatBook 3 -- [303, 12, 15]
+ARMO BioSciences 3 -- [252, 2, 92]
+Chedaidai 3 -- [24, 66, 35]
+Tianjin CanSino Biotechnology Inc. 3 -- [40, 2, 133]
+Mafengwo 3 -- [2, 58, 127]
+EpimAb Biotherapeutics 3 -- [160, 139, 92]
+Zhihu 3 -- [2, 58, 229]
+Connect Biopharmaceuticals 3 -- [2, 135, 15]
+Antengene Corporation 2 -- [144, 2]
+lecarlink 2 -- [24, 66]
+Tiebaobei 2 -- [2, 31]
+XSKY Data Technology 2 -- [2, 15]
+------------------------------------------
+
+###### Investors in this community:
+4 Matrix Partners China
+37 Fosun Group
+47 Green Pine Capital
+69 China Equity
+100 Qingsong Fund
+120 Microsoft Accelerator Shanghai
+123 Cybernaut Venture Capital
+131 Ivy Capital
+153 JD Capital
+227 SenseTime
+286 China Pacific Insurance
+313 WM Motor
+495 Co-Power Venture Capital
+###### Representative startups in this community:
+Yaoshibang 4 -- [131, 495, 37, 47]
+Atzuche 4 -- [131, 4, 69, 286]
+Caicloud 3 -- [120, 123, 4]
+Misspao 2 -- [4, 69]
+AutocloudPro 2 -- [100, 4]
+Hellobike 2 -- [313, 37]
+51VR 2 -- [227, 47]
+Wujie Space 2 -- [4, 69]
+Zmeng Network Technology (ZMT) 2 -- [153, 37]
+------------------------------------------
+
+###### Investors in this community:
+7 Shenzhen Capital Group
+34 SB China Venture Capital
+68 Ping An Ventures
+94 Cowin Capital
+115 GP Capital
+145 ShenZhen GTJA Investment Group
+152 Shanghai Fosun Pharmaceutical (Group) Co.,Ltd
+176 Iflytek (Keda Xunfei)
+282 Huatai Securities Co., Ltd.
+322 Hua Partners
+487 HNA Capital
+###### Representative startups in this community:
+Wetalk TV 3 -- [176, 94, 7]
+Annoroad 3 -- [145, 34, 68]
+Geneseeq 2 -- [282, 94]
+Yunji Technology 2 -- [176, 487]
+Akeso Biopharma 2 -- [145, 7]
+Shanghai Henlius Biotech 2 -- [152, 145]
+Suning Finance 2 -- [115, 7]
+Qimengtingting 2 -- [322, 7]
+------------------------------------------
+
+###### Investors in this community:
+9 Legend Capital
+10 Shunwei Capital
+39 Xiaomi
+48 Decent Capital
+50 Fortune Venture Capital
+55 CICC
+60 Yonghua Capital
+64 Oriza Holdings
+84 Sky9 Capital
+89 Addor Capital
+93 China Merchants Bank
+97 Puhua Capital
+126 Weibo
+134 Hongdao Capital
+136 GF Securities
+142 Haier Capital
+147 ZSVC
+149 National SME Development Fund
+156 TCL Capital
+163 Legend Holdings
+165 WANDA Group
+166 CITIC Securities
+168 TusPark Ventures
+177 GF Xinde Investment Management
+180 Innohub Capital
+212 China Life Insurance
+213 Wang Gang
+224 Shengjing Group
+243 China Oceanwide
+250 Mangrove Capital
+254 China Merchants Securities
+315 Lakala
+326 Greenland Hong Kong Holdings Limited
+367 Yuan Zhen Capital
+382 GuoHe Capital
+415 Bank of Communications
+###### Representative startups in this community:
+SenseTime 4 -- [156, 165, 254, 55]
+Energy Monster 4 -- [177, 10, 84, 39]
+Phoenix Travel Group 4 -- [9, 163, 60, 142]
+WeWork China 3 -- [163, 326, 243]
+United Imaging Healthcare 3 -- [212, 166, 55]
+CloudWalk Technology 3 -- [64, 97, 10]
+PingPong 3 -- [136, 177, 55]
+QingCloud 3 -- [243, 84, 254]
+Edianzu 3 -- [315, 10, 163]
+Didi Chuxing 2 -- [93, 415]
+F5 Future Store 2 -- [180, 156]
+Beijing Immunochina Medical Science and Technology 2 -- [224, 9]
+ALO7 Technology 2 -- [9, 382]
+Bajiulin 2 -- [97, 147]
+Ucpaas 2 -- [9, 250]
+------------------------------------------
+
+###### Investors in this community:
+13 Alibaba Group
+25 Morningside Venture Capital
+72 ClearVue Partners
+102 Ping An
+109 THG Ventures
+114 Primavera Capital Group
+138 CreditEase
+146 Haitong International Securities Group
+197 State Development & Investment Corporation (SDIC)
+216 Yinxinggu Capital
+258 Chuxin Capital
+268 UCAR
+327 BAIC Group
+333 He Xiaopeng
+335 Noah Holdings
+391 Megvii Technology
+###### Representative startups in this community:
+Souche 6 -- [146, 72, 138, 13, 114, 25]
+Xiaopeng Motors 4 -- [25, 268, 13, 333]
+VideoPlusPlus 3 -- [391, 13, 197]
+Tikin Media 2 -- [102, 327]
+Qimingpian 2 -- [25, 258]
+Huya.com 2 -- [25, 102]
+Hsuanzhang 2 -- [138, 109]
+iTrigger.cn 2 -- [216, 13]
+Upgrade Inc. 2 -- [138, 335]
+------------------------------------------
+
+###### Investors in this community:
+14 Chinaccelerator
+143 AngelVest
+###### Representative startups in this community:
+QLC 2 -- [14, 143]
+------------------------------------------
+
+###### Investors in this community:
+16 Cherubic Ventures
+41 Tiantu Capital
+49 Trustbridge Partners
+61 China Media Capital (CMC)
+101 GX Capital
+105 Highlight Capital
+128 Wu Capital
+185 Greenwoods Investment
+233 51 Credit Card Manager
+263 Toutiao
+###### Representative startups in this community:
+LAIX LingoChamp (Liulishuo) 4 -- [16, 49, 128, 61]
+Kuaikan Manhua 4 -- [41, 263, 61, 101]
+Cui Yutao Health Management Center 2 -- [128, 105]
+QianCheng technology 2 -- [41, 233]
+Yitiao 2 -- [49, 61]
+Parallel Education 2 -- [41, 185]
+------------------------------------------
+
+###### Investors in this community:
+23 China Growth Capital
+26 Vertex Ventures China
+28 N5Capital
+30 Gaorong Capital
+33 JD.com
+43 Ant Financial
+77 Meituan-Dianping
+78 China Merchants Capital
+79 Hony Capital
+85 Didi Chuxing
+104 CITIC PE
+132 China Minsheng Investment Group
+191 Huagai Capital
+225 Jingwei Investments
+253 Sigma Square Capital
+255 Yongjin Group
+273 Sunshine Insurance Group Co Ltd
+290 Tsinghua Holdings
+###### Representative startups in this community:
+DeePhi Tech 6 -- [290, 43, 78, 23, 253, 30]
+ofo 5 -- [104, 225, 43, 85, 79]
+No Panda Culture (Bukongwenhua) 2 -- [253, 191]
+Xueba100.com 2 -- [26, 78]
+Megvii Technology 2 -- [273, 43]
+Shuidi 2 -- [77, 30]
+Easyretailpro 2 -- [33, 26]
+NetEase Weiyang 2 -- [33, 77]
+China Unicom 2 -- [33, 85]
+Relashenghuo 2 -- [28, 30]
+Jiaanpei.com 2 -- [104, 132]
+ICHunt.com 2 -- [33, 28]
+Geek+ 2 -- [26, 30]
+Kingdee Healthcare 2 -- [33, 255]
+------------------------------------------
+
+###### Investors in this community:
+36 Node Capital
+65 Fenbushi Capital
+87 CHAIN CAPITAL
+329 Digital Finance Group
+401 Hundsun Technologies
+###### Representative startups in this community:
+Symbiont 2 -- [65, 401]
+TenX 2 -- [65, 87]
+Ripio 2 -- [65, 329]
+ælf 2 -- [36, 87]
+------------------------------------------
+
+###### Investors in this community:
+90 WuXi AppTec
+111 Marathon Venture Partners
+172 9F Group
+204 Focus Media
+220 Frontline BioVentures
+291 Tasly Pharmaceutical
+301 C-Bridge Capital
+###### Representative startups in this community:
+Ascletis 3 -- [291, 204, 301]
+Usan 2 -- [204, 172]
+AnchorDx 2 -- [90, 111]
+Yidebang 2 -- [220, 111]
+Lion Rock FinTech 2 -- [172, 111]
+I-Mab Biopharma 2 -- [291, 301]
+------------------------------------------
+
+###### Investors in this community:
+96 Bojiang Capital(BoomingStar Ventures for the US fund)
+116 Kaitai Capital
+194 Shenzhen Leaguer Venture Capital
+219 Zhongguancun Development Group
+300 Shanghai Creation Investment
+385 General Technology Venture Capital
+###### Representative startups in this community:
+Cygnus Biosciences 3 -- [385, 219, 300]
+New Tranx Information Technology 3 -- [96, 194, 116]
+Asieris Pharmaceuticals 2 -- [219, 116]
+------------------------------------------
+
+###### Investors in this community:
+162 Sunac China Holdings
+248 China Vanke
+###### Representative startups in this community:
+Lianjia 2 -- [248, 162]
+------------------------------------------
+
+###### Investors in this community:
+297 Richard Chen
+342 Bo Feng
+###### Representative startups in this community:
+Equidate 2 -- [297, 342]
+------------------------------------------
+
